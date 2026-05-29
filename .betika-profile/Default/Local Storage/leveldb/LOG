@@ -1,0 +1,11 @@
+2026/05/29-13:29:19.451 2f77 Reusing MANIFEST /home/kabwoy/Desktop/baba-cale/bot/.betika-profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/29-13:29:19.460 2f77 Recovering log #19
+2026/05/29-13:29:19.460 2f77 Level-0 table #22: started
+2026/05/29-13:29:19.465 2f77 Level-0 table #22: 28424 bytes OK
+2026/05/29-13:29:19.465 2f77 Recovering log #21
+2026/05/29-13:29:19.465 2f77 Level-0 table #23: started
+2026/05/29-13:29:19.468 2f77 Level-0 table #23: 29367 bytes OK
+2026/05/29-13:29:19.471 2f77 Delete type=0 #21
+2026/05/29-13:29:19.471 2f77 Delete type=0 #19
+2026/05/29-13:30:08.833 2f7a Level-0 table #26: started
+2026/05/29-13:30:08.852 2f7a Level-0 table #26: 28503 bytes OK

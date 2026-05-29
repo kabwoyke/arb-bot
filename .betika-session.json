@@ -1,0 +1,880 @@
+{
+  "cookies": [
+    {
+      "name": "X-AB",
+      "value": "9f64bba91d1b4d27aefc45e8773e7f5a",
+      "domain": "sc-static.net",
+      "path": "/scevent.min.js",
+      "expires": 1779436734.945602,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "supports_mobile_web",
+      "value": "true",
+      "domain": "www.betika.com",
+      "path": "/",
+      "expires": 1813910847.379171,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "tM_b2n7R5UU71B0UNvReNtsy2xXnlrEs9yT7qBmKAq0-1779350331-1.2.1.1-nX9u555vDK0yu0ML94ZMvEnUo5pbq5SRNTC77PU2ufjVdzc18bb_rDCj_C_PBK3BU9AghsqNnleG9v29uPUPl9svYCNtQdVkhHUtY_wqq379dFwN7rK4kFtMBa7.JVtrkK_j2gQpu_2BgViH458d1oSqG7sBSGZnfxChQnZNVQ_mfkBV3vhPvapmxh8mphTuBQH1c7Trpx1os_x8K39n7ygPWFxVE9GmKa4mtsMi9Qx7CATQgY9Hxd9OZc8cHY_XL5kX16iqyie.4YRIR1O9kxg_8Fb4RIBY17cCRgJzl2c6.5tkgHuQJZaEibJuKCaBMEChwY40HqnTrcsTDok6Bg",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1810886331.863368,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://betika.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__cf_bm",
+      "value": "29agYLtbQdPHOdGJPXKnq3tSvujNQRgq7a4ADb5IhFA-1779350331.8517401-1.0.1.1-Gz4jvj6KFXX_lU5nzbI.VhRPXQkpn4XJ3aA5phiZ88TMFcxpRIHo.pQv4zVExdUq6ZcUwy3aOSutgX3Z73LK3d86ssJ_DnSomzI.7TaxsBPvvyXOOYdDwi9.SRaJbRsi",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1779352131.863598,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_twpid",
+      "value": "tw.1779350332446.469175945910093524",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1813046333.143745,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "muc_ads",
+      "value": "fbe17715-ec3a-4489-b96b-b0710e406ab0",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1813910333.071559,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "1fjNUJ73wOHSvfFVugYJEVU8nv5.MfriAL66J0kdIqg-1779350332.745463-1.0.1.1-UhTlmbRBUCzmiRoLuUAbIueX0RnqZo.kY5nWrRUQXJ25Vo9dMPOhTHLW81PFUPcuxY1v9vzwKfTmzVswFsNSnEMxUCQ30POFRExxW7a0QtsGR8f_styY3X86PLlqa.Vw",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1779352133.071678,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1511867722.1779350333",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1787126333,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "guest_id_marketing",
+      "value": "v1%3A177935033325537191",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1813910333.388428,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id_ads",
+      "value": "v1%3A177935033325537191",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1813910333.388714,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "personalization_id",
+      "value": "\"v1_CzrR4kthx06bAFsMiAlcqA==\"",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1813910333.388889,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id",
+      "value": "v1%3A177935033325537191",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1813910333.389078,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "OtcKB6I9nSJdoFmrWS1LvC4XLAjZLTD.1IyBvFb3LKc-1779350333.1468992-1.0.1.1-xK8DIDqliheiMPko03kCO2g2fmIr0Lm4KYDiYh8WG0kJh4YqtRx9cmrj5kL8xyAquXoKAl3euMl3S.xsplKM.orbe1QRLV8hP_ApWayHsgQrLy0WYqc1yTRNCGShSCFf",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1779352133.389236,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CLID",
+      "value": "7a4f771cb099472f990f077beebd4222.20260521.20270521",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1810886334.006876,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.608463223.1779350334",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1779437248,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "iDSP_Cookie",
+      "value": "283dc5e3-84b2-4687-8140-0461f5669a78**1779350334411*112fe6524a474478a2f1266368ac7d8c*",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1787126334,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid",
+      "value": "ZVNA33BCQVcjK2UXCt3IVX1oDFXGC_Kt",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1813564735,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__eConsent",
+      "value": "1",
+      "domain": ".eskimi.com",
+      "path": "/",
+      "expires": 1781942335.424689,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__eDId",
+      "value": "b3beb383-9a09-49ca-b004-69a6ea8c461e",
+      "domain": ".eskimi.com",
+      "path": "/",
+      "expires": 1781942848.397204,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__eP",
+      "value": "1",
+      "domain": ".eskimi.com",
+      "path": "/",
+      "expires": 1780559935.425162,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1779350335450.742178206227381836",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1787126848,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CMID",
+      "value": "ag67P1VbL2QABNFMAJqmHgAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1810886342.35063,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "value": "1829",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1787126335.94897,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "1829",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1787126342.350863,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cq_duid",
+      "value": "1.1779350336.5xdmuDB3uNDrglPB",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1787234848,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cq_suid",
+      "value": "1.1779350336.aFd1pJPjOPPyKGD9",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clck",
+      "value": "1gnfgvm%5E2%5Eg68%5E0%5E2332",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1810886336,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "viewer_token",
+      "value": "9c859c1f-0fe5-4eed-a5de-643e80b8693b",
+      "domain": ".csync.loopme.me",
+      "path": "/",
+      "expires": 1787126336.369737,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "value": "45b04659-e67c-40d3-ada7-c6cdf047e2af|1779350336",
+      "domain": ".openx.net",
+      "path": "/",
+      "expires": 1810886336.519326,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUnU2oaFPVA2kxJuhc1O4GZD4hdesIRpwVLZ3Q7JWIU5d3onjFKgcLzDHdl5B_0",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1813910336.64625,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pid",
+      "value": "5621000366024777376",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1787126336.65124,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TestIfCookieP",
+      "value": "ok",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1813564736.651424,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "csync",
+      "value": "156:b3beb383-9a09-49ca-b004-69a6ea8c461e",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1781942336.651572,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos",
+      "value": "MPF78YMW-19-8GLE",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1810886341.395602,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos_p",
+      "value": "MPF78YMW-19-8GLE",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1810886341.395913,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://betika.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1787126336.686526,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://betika.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "XANDR_PANID",
+      "value": "ZM_PS3jsH5Allulz3I9ZTosMf461BFj9nJLsdj_yHom-b38ypc8iOb9J-xJdeUhlfCiXr_HK4Z8IH6j7AcFKTuCzRouD0qCRjUFk1EqWp4M.",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1787126850.043333,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://betika.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "uuid2",
+      "value": "290285433249352474",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1787126850.043618,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "c784a96a-c95a-483f-a1f9-935f886dfc05",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1810886337.298613,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "value": "1779350336",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1810886337.091148,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anj",
+      "value": "dTM7k!M4.FEVNsVF']wIg2Hc#uCQhi!@wnfH1YwAcf_/$Z68E_Tf_0!DFA:7FSMkXD`[fgVv/t:Y5.E2FY8-$SdjOAUs!*IlXGu$(j#iP(Md+>)fy-'W2:*e",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1787126337.138117,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1779350337",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1810886337.298844,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_TS",
+      "value": "1779350338060",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1784534338.450902,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_DID",
+      "value": "342f38aa-db1a-4531-ac1f-bf79c600ff8e",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1784534338.45118,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_3WAY_SYNCS",
+      "value": "",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1784534338.451309,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sc_at",
+      "value": "v2|H4sIAAAAAAAA/03GwQ3AMAgEsImQDhF60G0gFVNk+Hzrl/dTrG9cuidlBUeKBslQeE7tZh9deJVMc5jF+RUX8frymEAAAAA=",
+      "domain": ".snapchat.com",
+      "path": "/",
+      "expires": 1813046338.684328,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sctr",
+      "value": "1%7C1779310800000",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1813564738,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CxtId",
+      "value": "91d5c951-69e4-4c2d-afd4-ef7ada111638",
+      "domain": ".connextra.com",
+      "path": "/",
+      "expires": 1810886850.343723,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bitoIsSecure",
+      "value": "ok",
+      "domain": ".bidr.io",
+      "path": "/",
+      "expires": 1813463940.081873,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bito",
+      "value": "AADUC07UHXcAAAAQUPXlPQ",
+      "domain": ".bidr.io",
+      "path": "/",
+      "expires": 1813464449.610736,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "2605398FE5A46AC021F82EEFE4266B65",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1813046341.510159,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1779955141.510477,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRM_B",
+      "value": "2605398FE5A46AC021F82EEFE4266B65",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1813046341.510605,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDID",
+      "value": "bec77958-9428-42e4-acda-7bd5b4b5e96e",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1810886849.703365,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SM",
+      "value": "C",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "2605398FE5A46AC021F82EEFE4266B65",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1813046340.724922,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1779955140.725276,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANONCHK",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1779350940.725477,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit_p",
+      "value": "1|I0AS40tjUPYGDZYM7PdeWyoCSWP0+FFTDZKMAojwKIP+E5/sUs0J4P2H256ZLoFwzAw7Qt1D2XIwHTRO1/p4iIe7twcCuEuBHvJwuuKL1hzToyHj6dKnMfsjQEfPp6Dbdl9ZXA4DGl1mlETMTQ4oNWsLh2bW+6seUI+rhEM1QI1ONuzF3FNDloRLWU/IEFNTQNfVMtfKwhwjG8qSyECT77Ne5MbTD10dAp5URmQMX+8=",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1810886341.395102,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://betika.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "audit",
+      "value": "1|I0AS40tjUPYGDZYM7PdeWyoCSWP0+FFTDZKMAojwKIP+E5/sUs0J4P2H256ZLoFwzAw7Qt1D2XIwHTRO1/p4iIe7twcCuEuBHvJwuuKL1hzToyHj6dKnMfsjQEfPp6Dbdl9ZXA4DGl1mlETMTQ4oNWsLh2bW+6seUI+rhEM1QI1ONuzF3FNDloRLWU/IEFNTQNfVMtfKwhwjG8qSyECT77Ne5MbTD10dAp5URmQMX+8=",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1810886341.396303,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "btk-lang-cn",
+      "value": "en-ke",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1813910748.810031,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "KRTBCOOKIE_377",
+      "value": "6810-bec77958-9428-42e4-acda-7bd5b4b5e96e&KRTB&22918-bec77958-9428-42e4-acda-7bd5b4b5e96e&KRTB&22926-bec77958-9428-42e4-acda-7bd5b4b5e96e&KRTB&23031-bec77958-9428-42e4-acda-7bd5b4b5e96e",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1787126364.302281,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PugT",
+      "value": "1779350364",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1781942364.302542,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "user_device_id",
+      "value": "e12864ec-54eb-11f1-9c21-42010afec935",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1813910750.088711,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dc_gtm_UA-77069362-10",
+      "value": "1",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1779350893,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-77069362-10",
+      "value": "1",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1779350893,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Betika",
+      "value": "P%7Cloggedin%7C1%7C202605210859%0AP%7Chomepage%7C1%7C202605210907",
+      "domain": ".connextra.com",
+      "path": "/",
+      "expires": 1810886849.590955,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.454532308.1779350334",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1813910848.235962,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_R8GRWELHBE",
+      "value": "GS2.1.s1779350333$o1$g1$t1779350848$j44$l0$h0",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1813910848.184001,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid_r",
+      "value": "dNNA33BCQVcjK2UXCt3IVX1oDFXGC_KtxcXVmg",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1813565248,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cq_session",
+      "value": "1.1779350336186.odYZnhZy8kEPUZ4B.1779350848442",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1813910848.443542,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clsk",
+      "value": "xtq410%5E1779350848917%5E9%5E0%5En.clarity.ms%2Fcollect",
+      "domain": ".betika.com",
+      "path": "/",
+      "expires": 1779437248,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TDCPM",
+      "value": "CAESFwoIYXBwbmV4dXMSCwju3KScm8abPxAFEhUKBmdvb2dsZRILCP7Gj6Gbxps_EAUSFgoHcnViaWNvbhILCPj8j6Gbxps_EAUSGAoJYmlkc3dpdGNoEgsI-MHppZvGmz8QBRIVCgZjYXNhbGUSCwiCzc6qm8abPxAFEhcKCHB1Ym1hdGljEgsI1qix9ZzGmz8QBRgFOAFCBCICCAE.",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1810886849.70367,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.betika.com",
+      "localStorage": [
+        {
+          "name": "u_sclid",
+          "value": "jdrJgA3eWXKJhwPIUsHUpHjuhQZTlwrIZVNA33BCQVcjK2UXCt3IVX1oDFXGC_Kt"
+        },
+        {
+          "name": "user",
+          "value": "{\"id\":\"37669777\",\"mobile\":\"254758262427\",\"balance\":12.2,\"bonus\":\"5.00\",\"points\":null,\"network\":\"safcom\",\"network_display\":\"Safaricom\",\"has_kyc\":true}"
+        },
+        {
+          "name": "lo_session",
+          "value": "{\"__s\":1779350336350}"
+        },
+        {
+          "name": "nav-all-sports-ke-v22",
+          "value": "[{\"timestamp\":1779350749379,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"14\",\"sport_name\":\"Soccer\",\"categories\":[{\"category_id\":\"1960\",\"category_name\":\"England\",\"competitions\":[{\"competition_id\":\"222\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"203\",\"competition_name\":\"League One\"},{\"competition_id\":\"204\",\"competition_name\":\"League Two\"},{\"competition_id\":\"167\",\"competition_name\":\"Championship\"}]},{\"category_id\":\"2007\",\"category_name\":\"Spain\",\"competitions\":[{\"competition_id\":\"14982\",\"competition_name\":\"LaLiga 2\"},{\"competition_id\":\"14482\",\"competition_name\":\"LaLiga\"},{\"competition_id\":\"51560\",\"competition_name\":\"U19 Division de Honor Juvenil\"},{\"competition_id\":\"42173\",\"competition_name\":\"Primera Federacion\"}]},{\"category_id\":\"2019\",\"category_name\":\"Italy\",\"competitions\":[{\"competition_id\":\"183\",\"competition_name\":\"Serie B\"},{\"competition_id\":\"182\",\"competition_name\":\"Serie A\"},{\"competition_id\":\"47162\",\"competition_name\":\"Primavera 1\"}]},{\"category_id\":\"1911\",\"category_name\":\"Germany\",\"competitions\":[{\"competition_id\":\"303\",\"competition_name\":\"DFB Pokal\"},{\"competition_id\":\"214\",\"competition_name\":\"Bundesliga\"},{\"competition_id\":\"45673\",\"competition_name\":\"2. Bundesliga\"}]},{\"category_id\":\"1976\",\"category_name\":\"France\",\"competitions\":[{\"competition_id\":\"169\",\"competition_name\":\"Coupe de France\"},{\"competition_id\":\"238\",\"competition_name\":\"Ligue 2\"},{\"competition_id\":\"209\",\"competition_name\":\"Ligue 1\"}]},{\"category_id\":\"1919\",\"category_name\":\"Scotland\",\"competitions\":[{\"competition_id\":\"234\",\"competition_name\":\"Premiership\"},{\"competition_id\":\"1076\",\"competition_name\":\"Scottish Cup\"}]},{\"category_id\":\"1970\",\"category_name\":\"Netherlands\",\"competitions\":[{\"competition_id\":\"191\",\"competition_name\":\"Eredivisie\"},{\"competition_id\":\"1051\",\"competition_name\":\"Eredivisie, Women\"}]},{\"category_id\":\"1939\",\"category_name\":\"International\",\"competitions\":[{\"competition_id\":\"52588\",\"competition_name\":\"FIFA World Cup\"},{\"competition_id\":\"976\",\"competition_name\":\"Int. Friendly Games\"}]},{\"category_id\":\"2055\",\"category_name\":\"Algeria\",\"competitions\":[{\"competition_id\":\"815\",\"competition_name\":\"Ligue 1\"}]},{\"category_id\":\"1940\",\"category_name\":\"Argentina\",\"competitions\":[{\"competition_id\":\"29049\",\"competition_name\":\"Primera Nacional\"},{\"competition_id\":\"49485\",\"competition_name\":\"Primera LPF\"},{\"competition_id\":\"49666\",\"competition_name\":\"Primera LPF, Reserves\"},{\"competition_id\":\"540\",\"competition_name\":\"Primera B\"},{\"competition_id\":\"20017\",\"competition_name\":\"Primera Division, Women\"},{\"competition_id\":\"18954\",\"competition_name\":\"Primera C\"},{\"competition_id\":\"1220\",\"competition_name\":\"Copa Argentina\"}]},{\"category_id\":\"1916\",\"category_name\":\"Australia\",\"competitions\":[{\"competition_id\":\"8952\",\"competition_name\":\"A-League\"},{\"competition_id\":\"41608\",\"competition_name\":\"U20 NSW NPL\"},{\"competition_id\":\"45870\",\"competition_name\":\"Victoria, NPL\"},{\"competition_id\":\"36804\",\"competition_name\":\"Queensland NPL\"},{\"competition_id\":\"36982\",\"competition_name\":\"Western Australia NPL\"},{\"competition_id\":\"36758\",\"competition_name\":\"NSW NPL 1\"},{\"competition_id\":\"37237\",\"competition_name\":\"Capital Npl 1\"},{\"competition_id\":\"37152\",\"competition_name\":\"Northern NSW NPL\"},{\"competition_id\":\"37005\",\"competition_name\":\"South Australia NPL\"},{\"competition_id\":\"37009\",\"competition_name\":\"Tasmania NPL\"},{\"competition_id\":\"49810\",\"competition_name\":\"NSW NPL, Women\"},{\"competition_id\":\"46394\",\"competition_name\":\"U23 Queensland NPL\"},{\"competition_id\":\"53335\",\"competition_name\":\"Northern Territory Premier League\"},{\"competition_id\":\"36924\",\"competition_name\":\"Queensland NPL, Women\"},{\"competition_id\":\"36918\",\"competition_name\":\"Queensland Premier League 1\"},{\"competition_id\":\"41447\",\"competition_name\":\"NSW League One\"},{\"competition_id\":\"37017\",\"competition_name\":\"Queensland Premier League 2\"},{\"competition_id\":\"41474\",\"competition_name\":\"NSW League Two\"},{\"competition_id\":\"45862\",\"competition_name\":\"Victoria Premier League 1\"},{\"competition_id\":\"49783\",\"competition_name\":\"Victoria Premier League 2\"},{\"competition_id\":\"37238\",\"competition_name\":\"Victoria Npl, Women\"},{\"competition_id\":\"49781\",\"competition_name\":\"South Australia NPL, Reserves, Women\"},{\"competition_id\":\"37217\",\"competition_name\":\"South Australia NPL, Women\"},{\"competition_id\":\"37233\",\"competition_name\":\"South Australia State League 1\"},{\"competition_id\":\"49557\",\"competition_name\":\"U23 Victoria Premier League 1\"},{\"competition_id\":\"46519\",\"competition_name\":\"U23 Queensland Premier League 1\"},{\"competition_id\":\"53097\",\"competition_name\":\"Northern NSW NPL, Women\"},{\"competition_id\":\"46686\",\"competition_name\":\"U20 NSW League One\"},{\"competition_id\":\"50022\",\"competition_name\":\"Queensland Premier League 3 Metro\"},{\"competition_id\":\"51084\",\"competition_name\":\"Queensland Premier League 1, Women\"}]},{\"category_id\":\"1944\",\"category_name\":\"Austria\",\"competitions\":[{\"competition_id\":\"200\",\"competition_name\":\"Bundesliga\"}]},{\"category_id\":\"1978\",\"category_name\":\"Austria Amateur\",\"competitions\":[{\"competition_id\":\"47336\",\"competition_name\":\"Wiener Stadtliga\"},{\"competition_id\":\"202\",\"competition_name\":\"Regionalliga Centre\"},{\"competition_id\":\"47463\",\"competition_name\":\"Steiermark, Landesliga\"},{\"competition_id\":\"46412\",\"competition_name\":\"Regionalliga Ost\"},{\"competition_id\":\"763\",\"competition_name\":\"Regionalliga West\"},{\"competition_id\":\"47126\",\"competition_name\":\"Karntner Liga\"}]},{\"category_id\":\"2041\",\"category_name\":\"Azerbaijan\",\"competitions\":[{\"competition_id\":\"20465\",\"competition_name\":\"First Division\"},{\"competition_id\":\"895\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"2089\",\"category_name\":\"Bahrain\",\"competitions\":[{\"competition_id\":\"910\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"1906\",\"category_name\":\"Belarus\",\"competitions\":[{\"competition_id\":\"19805\",\"competition_name\":\"Vysshaya Liga\"}]},{\"category_id\":\"1932\",\"category_name\":\"Belgium\",\"competitions\":[{\"competition_id\":\"8295\",\"competition_name\":\"Pro League\"},{\"competition_id\":\"20051\",\"competition_name\":\"Super League, Women\"}]},{\"category_id\":\"2050\",\"category_name\":\"Bolivia\",\"competitions\":[{\"competition_id\":\"36922\",\"competition_name\":\"Division Profesional\"}]},{\"category_id\":\"1966\",\"category_name\":\"Bosnia & Herzegovina\",\"competitions\":[{\"competition_id\":\"20001\",\"competition_name\":\"Prva Liga, Rep of Srpska\"},{\"competition_id\":\"883\",\"competition_name\":\"Premijer Liga\"},{\"competition_id\":\"19968\",\"competition_name\":\"Prva Liga, Fed BiH\"}]},{\"category_id\":\"96\",\"category_name\":\"Brazil\",\"competitions\":[{\"competition_id\":\"907\",\"competition_name\":\"Brasileiro Serie A\"},{\"competition_id\":\"908\",\"competition_name\":\"Brasileiro Serie B\"},{\"competition_id\":\"41099\",\"competition_name\":\"Cearense, Serie B\"},{\"competition_id\":\"31905\",\"competition_name\":\"Brasileiro Serie A2, Women\"},{\"competition_id\":\"49752\",\"competition_name\":\"U20 Brasileiro Serie A\"},{\"competition_id\":\"49969\",\"competition_name\":\"U20 Brasileiro Serie B\"},{\"competition_id\":\"12362\",\"competition_name\":\"Copa Verde\"},{\"competition_id\":\"30475\",\"competition_name\":\"Paulista, Women\"},{\"competition_id\":\"50127\",\"competition_name\":\"Brasileiro A1, Women\"},{\"competition_id\":\"24036\",\"competition_name\":\"Copa do Nordeste\"},{\"competition_id\":\"39810\",\"competition_name\":\"Copa FGF\"}]},{\"category_id\":\"1991\",\"category_name\":\"Bulgaria\",\"competitions\":[{\"competition_id\":\"41660\",\"competition_name\":\"Parva Liga\"},{\"competition_id\":\"47174\",\"competition_name\":\"Vtora Liga\"}]},{\"category_id\":\"1953\",\"category_name\":\"Chile\",\"competitions\":[{\"competition_id\":\"16728\",\"competition_name\":\"Primera Division\"},{\"competition_id\":\"16863\",\"competition_name\":\"Primera B\"}]},{\"category_id\":\"1910\",\"category_name\":\"China\",\"competitions\":[{\"competition_id\":\"724\",\"competition_name\":\"Chinese Super League\"},{\"competition_id\":\"25553\",\"competition_name\":\"China League 2\"}]},{\"category_id\":\"101\",\"category_name\":\"Colombia\",\"competitions\":[{\"competition_id\":\"52779\",\"competition_name\":\"Liga DIMAYOR\"},{\"competition_id\":\"53705\",\"competition_name\":\"Copa DIMAYOR\"},{\"competition_id\":\"52897\",\"competition_name\":\"Torneo DIMAYOR\"}]},{\"category_id\":\"1972\",\"category_name\":\"Croatia\",\"competitions\":[{\"competition_id\":\"41979\",\"competition_name\":\"HNL\"},{\"competition_id\":\"41908\",\"competition_name\":\"Prva NL\"}]},{\"category_id\":\"1998\",\"category_name\":\"Cyprus\",\"competitions\":[{\"competition_id\":\"8711\",\"competition_name\":\"1st Division\"}]},{\"category_id\":\"117478\",\"category_name\":\"Czechia\",\"competitions\":[{\"competition_id\":\"46243\",\"competition_name\":\"1. Liga\"},{\"competition_id\":\"46245\",\"competition_name\":\"FNL\"},{\"competition_id\":\"46242\",\"competition_name\":\"CFL\"},{\"competition_id\":\"46251\",\"competition_name\":\"MSFL\"}]},{\"category_id\":\"1950\",\"category_name\":\"Denmark\",\"competitions\":[{\"competition_id\":\"41845\",\"competition_name\":\"1. Division\"},{\"competition_id\":\"19489\",\"competition_name\":\"2nd Division\"},{\"competition_id\":\"41443\",\"competition_name\":\"Superliga\"},{\"competition_id\":\"38575\",\"competition_name\":\"3rd Division\"}]},{\"category_id\":\"2054\",\"category_name\":\"Denmark Amateur\",\"competitions\":[{\"competition_id\":\"41876\",\"competition_name\":\"Danmarksserien\"}]},{\"category_id\":\"1949\",\"category_name\":\"Ecuador\",\"competitions\":[{\"competition_id\":\"30482\",\"competition_name\":\"LigaPro Primera A\"},{\"competition_id\":\"27431\",\"competition_name\":\"Copa Ecuador\"}]},{\"category_id\":\"95\",\"category_name\":\"Egypt\",\"competitions\":[{\"competition_id\":\"725\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"1977\",\"category_name\":\"England Amateur\",\"competitions\":[{\"competition_id\":\"47758\",\"competition_name\":\"Super League Women\"}]},{\"category_id\":\"1965\",\"category_name\":\"Faroe Islands\",\"competitions\":[{\"competition_id\":\"711\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"503\",\"category_name\":\"Finland\",\"competitions\":[{\"competition_id\":\"236\",\"competition_name\":\"Veikkausliiga\"},{\"competition_id\":\"45936\",\"competition_name\":\"Ykkosliiga\"},{\"competition_id\":\"53521\",\"competition_name\":\"Kakkonen\"},{\"competition_id\":\"48436\",\"competition_name\":\"Kolmonen\"},{\"competition_id\":\"32612\",\"competition_name\":\"Kansallinen Liiga, Women\"}]},{\"category_id\":\"1983\",\"category_name\":\"Georgia\",\"competitions\":[{\"competition_id\":\"18347\",\"competition_name\":\"Erovnuli Liga\"}]},{\"category_id\":\"2024\",\"category_name\":\"Greece\",\"competitions\":[{\"competition_id\":\"8522\",\"competition_name\":\"Super League\"}]},{\"category_id\":\"1996\",\"category_name\":\"Guatemala\",\"competitions\":[{\"competition_id\":\"764\",\"competition_name\":\"Liga Nacional, Clausura\"}]},{\"category_id\":\"2032\",\"category_name\":\"Honduras\",\"competitions\":[{\"competition_id\":\"23956\",\"competition_name\":\"Liga Nacional. Clausura\"}]},{\"category_id\":\"1934\",\"category_name\":\"Hungary\",\"competitions\":[{\"competition_id\":\"47035\",\"competition_name\":\"NB III\"}]},{\"category_id\":\"1908\",\"category_name\":\"Iceland\",\"competitions\":[{\"competition_id\":\"43574\",\"competition_name\":\"Besta deild\"},{\"competition_id\":\"42071\",\"competition_name\":\"1. deild\"},{\"competition_id\":\"26359\",\"competition_name\":\"2. deild\"},{\"competition_id\":\"50289\",\"competition_name\":\"4. deild\"}]},{\"category_id\":\"2065\",\"category_name\":\"India\",\"competitions\":[{\"competition_id\":\"8854\",\"competition_name\":\"Indian Super League\"}]},{\"category_id\":\"98\",\"category_name\":\"International Clubs\",\"competitions\":[{\"competition_id\":\"49230\",\"competition_name\":\"CONMEBOL Libertadores\"},{\"competition_id\":\"49620\",\"competition_name\":\"CONMEBOL Sudamericana\"},{\"competition_id\":\"20393\",\"competition_name\":\"UEFA Champions League Women\"},{\"competition_id\":\"19508\",\"competition_name\":\"UEFA Champions League\"},{\"competition_id\":\"46357\",\"competition_name\":\"UEFA Conference League\"},{\"competition_id\":\"45849\",\"competition_name\":\"CONCACAF Champions Cup\"}]},{\"category_id\":\"2016\",\"category_name\":\"Iran\",\"competitions\":[{\"competition_id\":\"19485\",\"competition_name\":\"Azadegan League\"}]},{\"category_id\":\"2138\",\"category_name\":\"Ireland\",\"competitions\":[{\"competition_id\":\"14259\",\"competition_name\":\"First Division\"},{\"competition_id\":\"14256\",\"competition_name\":\"Premier Division\"}]},{\"category_id\":\"2017\",\"category_name\":\"Israel\",\"competitions\":[{\"competition_id\":\"8520\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"51308\",\"competition_name\":\"U19 Premier League\"},{\"competition_id\":\"8532\",\"competition_name\":\"National League\"}]},{\"category_id\":\"1833\",\"category_name\":\"Japan\",\"competitions\":[{\"competition_id\":\"52916\",\"competition_name\":\"J1 League\"}]},{\"category_id\":\"443\",\"category_name\":\"Kazakhstan\",\"competitions\":[{\"competition_id\":\"559\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"34303\",\"competition_name\":\"Pervaya Liga\"}]},{\"category_id\":\"2051\",\"category_name\":\"KOSOVO\",\"competitions\":[{\"competition_id\":\"24836\",\"competition_name\":\"Kosovo FA Cup\"}]},{\"category_id\":\"2133\",\"category_name\":\"Kuwait\",\"competitions\":[{\"competition_id\":\"35852\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"1947\",\"category_name\":\"Latvia\",\"competitions\":[{\"competition_id\":\"856\",\"competition_name\":\"Virsliga\"}]},{\"category_id\":\"1852\",\"category_name\":\"Lithuania\",\"competitions\":[{\"competition_id\":\"879\",\"competition_name\":\"1 Lyga\"},{\"competition_id\":\"20101\",\"competition_name\":\"A Lyga\"},{\"competition_id\":\"37149\",\"competition_name\":\"II Lyga\"}]},{\"category_id\":\"2044\",\"category_name\":\"Luxembourg\",\"competitions\":[{\"competition_id\":\"952\",\"competition_name\":\"Division Nationale\"}]},{\"category_id\":\"2195\",\"category_name\":\"Mali\",\"competitions\":[{\"competition_id\":\"45193\",\"competition_name\":\"Ligue 1\"}]},{\"category_id\":\"1975\",\"category_name\":\"Mexico\",\"competitions\":[{\"competition_id\":\"43044\",\"competition_name\":\"Liga MX, Clausura\"},{\"competition_id\":\"50537\",\"competition_name\":\"Campeon de Campeones Liga Expansion MX\"}]},{\"category_id\":\"2147\",\"category_name\":\"New Zealand\",\"competitions\":[{\"competition_id\":\"40792\",\"competition_name\":\"National League\"}]},{\"category_id\":\"1247\",\"category_name\":\"Norway\",\"competitions\":[{\"competition_id\":\"260\",\"competition_name\":\"Eliteserien\"},{\"competition_id\":\"20172\",\"competition_name\":\"NM Cup Women\"},{\"competition_id\":\"52949\",\"competition_name\":\"3. Division, Group 2\"},{\"competition_id\":\"414\",\"competition_name\":\"1st Division\"},{\"competition_id\":\"51176\",\"competition_name\":\"U19 Nasjonal\"}]},{\"category_id\":\"2009\",\"category_name\":\"Panama\",\"competitions\":[{\"competition_id\":\"45976\",\"competition_name\":\"Liga Prom\"}]},{\"category_id\":\"1688\",\"category_name\":\"Paraguay\",\"competitions\":[{\"competition_id\":\"53447\",\"competition_name\":\"Division Intermedia\"},{\"competition_id\":\"52849\",\"competition_name\":\"Division de Honor\"}]},{\"category_id\":\"444\",\"category_name\":\"Peru\",\"competitions\":[{\"competition_id\":\"45770\",\"competition_name\":\"Liga 1\"},{\"competition_id\":\"41069\",\"competition_name\":\"Liga Femenina\"}]},{\"category_id\":\"1847\",\"category_name\":\"Poland\",\"competitions\":[{\"competition_id\":\"7707\",\"competition_name\":\"Ekstraklasa\"},{\"competition_id\":\"50769\",\"competition_name\":\"1. Liga\"},{\"competition_id\":\"258\",\"competition_name\":\"II Liga\"},{\"competition_id\":\"18557\",\"competition_name\":\"III Liga, Group 1\"},{\"competition_id\":\"18558\",\"competition_name\":\"III Liga, Group 2\"},{\"competition_id\":\"18559\",\"competition_name\":\"III Liga, Group 3\"},{\"competition_id\":\"18562\",\"competition_name\":\"III Liga, Group 4\"}]},{\"category_id\":\"2013\",\"category_name\":\"Portugal\",\"competitions\":[{\"competition_id\":\"1234\",\"competition_name\":\"Taca de Portugal\"}]},{\"category_id\":\"2225\",\"category_name\":\"Republic of Korea\",\"competitions\":[{\"competition_id\":\"25321\",\"competition_name\":\"K-League 2\"}]},{\"category_id\":\"506\",\"category_name\":\"Romania\",\"competitions\":[{\"competition_id\":\"43168\",\"competition_name\":\"Superliga\"},{\"competition_id\":\"8654\",\"competition_name\":\"Liga 2\"}]},{\"category_id\":\"1943\",\"category_name\":\"Russia\",\"competitions\":[{\"competition_id\":\"678\",\"competition_name\":\"Russian Cup\"},{\"competition_id\":\"44508\",\"competition_name\":\"2. Liga, Division B, Group 2\"},{\"competition_id\":\"49803\",\"competition_name\":\"MFL, Division A\"},{\"competition_id\":\"249\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"44470\",\"competition_name\":\"2. Liga, Division A\"}]},{\"category_id\":\"2049\",\"category_name\":\"Saudi Arabia\",\"competitions\":[{\"competition_id\":\"43366\",\"competition_name\":\"Saudi Pro League\"}]},{\"category_id\":\"1971\",\"category_name\":\"Serbia\",\"competitions\":[{\"competition_id\":\"8407\",\"competition_name\":\"Superliga\"},{\"competition_id\":\"401\",\"competition_name\":\"Prva Liga\"},{\"competition_id\":\"51248\",\"competition_name\":\"U19 League\"}]},{\"category_id\":\"2717\",\"category_name\":\"Simulated Reality League\",\"competitions\":[{\"competition_id\":\"32732\",\"competition_name\":\"Copa Libertadores SRL\"}]},{\"category_id\":\"1963\",\"category_name\":\"Slovenia\",\"competitions\":[{\"competition_id\":\"857\",\"competition_name\":\"PrvaLiga\"},{\"competition_id\":\"39038\",\"competition_name\":\"2. Liga\"}]},{\"category_id\":\"2048\",\"category_name\":\"South Africa\",\"competitions\":[{\"competition_id\":\"43154\",\"competition_name\":\"Premiership\"}]},{\"category_id\":\"1848\",\"category_name\":\"Sweden\",\"competitions\":[{\"competition_id\":\"223\",\"competition_name\":\"Allsvenskan\"},{\"competition_id\":\"171\",\"competition_name\":\"Superettan\"},{\"competition_id\":\"261\",\"competition_name\":\"Damallsvenskan\"},{\"competition_id\":\"53421\",\"competition_name\":\"Ettan\"},{\"competition_id\":\"436\",\"competition_name\":\"Division 2, Norra Gotaland\"},{\"competition_id\":\"53370\",\"competition_name\":\"Division 2\"},{\"competition_id\":\"38224\",\"competition_name\":\"Ettan, Sodra\"}]},{\"category_id\":\"446\",\"category_name\":\"Sweden Amateur\",\"competitions\":[{\"competition_id\":\"43598\",\"competition_name\":\"Elitettan, Women\"}]},{\"category_id\":\"1926\",\"category_name\":\"Switzerland\",\"competitions\":[{\"competition_id\":\"232\",\"competition_name\":\"Super League\"},{\"competition_id\":\"997\",\"competition_name\":\"Promotion League\"}]},{\"category_id\":\"2010\",\"category_name\":\"Tunisia\",\"competitions\":[{\"competition_id\":\"8471\",\"competition_name\":\"Tunisian Cup\"}]},{\"category_id\":\"117238\",\"category_name\":\"Turkiye\",\"competitions\":[{\"competition_id\":\"42681\",\"competition_name\":\"1. Lig\"},{\"competition_id\":\"42669\",\"competition_name\":\"Turkiye Kupasi\"}]},{\"category_id\":\"1964\",\"category_name\":\"Ukraine\",\"competitions\":[{\"competition_id\":\"851\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"20697\",\"competition_name\":\"U19\"},{\"competition_id\":\"988\",\"competition_name\":\"Persha Liga\"}]},{\"category_id\":\"2059\",\"category_name\":\"Uruguay\",\"competitions\":[{\"competition_id\":\"19480\",\"competition_name\":\"Primera Division\"},{\"competition_id\":\"20111\",\"competition_name\":\"Segunda Division\"}]},{\"category_id\":\"97\",\"category_name\":\"USA\",\"competitions\":[{\"competition_id\":\"44909\",\"competition_name\":\"MLS\"},{\"competition_id\":\"25538\",\"competition_name\":\"National Womens Soccer League\"},{\"competition_id\":\"25331\",\"competition_name\":\"USL Championship\"},{\"competition_id\":\"26364\",\"competition_name\":\"USL League Two\"},{\"competition_id\":\"26125\",\"competition_name\":\"National Premier Soccer League\"},{\"competition_id\":\"41544\",\"competition_name\":\"USL W League\"}]}],\"top_leagues\":{\"9\":{\"competition_id\":\"19508\",\"competition_name\":\"UEFA Champions League\",\"sport_id\":\"14\",\"category_id\":\"98\",\"category_name\":\"International Clubs\",\"count\":\"1\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"soccer\"},\"query_params\":null,\"image\":null,\"label\":\"Soccer\"},{\"timestamp\":1779350749379,\"hard_coded\":true,\"mobile_only\":false,\"sport_id\":\"-1001\",\"sport_name\":\"ligiBigi\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/ligi-bigi\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":\"2023-12-31 14:57\",\"visible\":true,\"image\":null,\"label\":\"Ligi Bigi\",\"selected\":[\"ligi-bigi\"]},{\"timestamp\":1779350749389,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-1099\",\"sport_name\":\"virtualHub\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/virtuals\",\"params\":null,\"query_params\":null,\"new_badge\":true,\"expiry\":\"2024-02-31 14:57\",\"visible\":true,\"image\":null,\"label\":\"Virtuals\",\"selected\":[\"virtual\",\"virtuals\",\"virtuals-markets\",\"virtuals-ongoing\",\"virtuals-results\",\"virtuals-table\",\"virtuals-matches\"]},{\"timestamp\":1779350749390,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-1097\",\"sport_name\":\"aviator\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/aviator\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":\"2022-12-23 14:57\",\"visible\":true,\"image\":null,\"label\":\"Aviator\",\"selected\":[\"aviator\"]},{\"timestamp\":1779350749391,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-993\",\"sport_name\":\"crashGames\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/crash-games\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":\"2023-12-31 14:57\",\"visible\":true,\"image\":null,\"label\":\"Crash Games\",\"selected\":[\"crash-games\"]},{\"timestamp\":1779350749391,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-998\",\"sport_name\":\"casino\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/casino\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":\"2023-12-31 14:57\",\"visible\":true,\"image\":null,\"label\":\"Casino\",\"selected\":[\"casino\",\"casino-category\",\"casino-game\"]},{\"timestamp\":1779350749392,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-997\",\"sport_name\":\"jackpots\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/jackpots\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":null,\"visible\":true,\"image\":null,\"label\":\"Jackpots\",\"selected\":[\"jackpots\",\"must-be-won\",\"grand-jackpot\",\"midweek-jackpot\",\"jackpot-results\",\"jackpot-result\"]},{\"timestamp\":1779350749392,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-995\",\"sport_name\":\"shikisha\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/shikisha-bet\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":null,\"visible\":true,\"image\":null,\"label\":\"Shikisha Bet\",\"selected\":[\"shikisha-bet\"]},{\"timestamp\":1779350749392,\"hard_coded\":true,\"mobile_only\":false,\"sport_id\":\"-994\",\"sport_name\":\"goldenRace\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/virtual/betika-super-league\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":null,\"visible\":false,\"image\":null,\"label\":\"BSL\",\"selected\":[\"betika-super-league\"]},{\"timestamp\":1779350749392,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-992\",\"sport_name\":\"splitPot\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/betika-fasta\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":null,\"visible\":true,\"image\":null,\"label\":\"Betika Fasta\",\"selected\":[\"betika-fasta\",\"betika-fasta-game\"]},{\"timestamp\":1779350749392,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-990\",\"sport_name\":\"goldenRace\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/virtual/betika-super-league\",\"params\":null,\"query_params\":{\"ref\":\"GROSpin2Win\"},\"new_badge\":false,\"expiry\":\"2022-10-20 23:59\",\"visible\":false,\"image\":\"https://cdn.betika.com/sport-icons/betika-super-league-icons/spin_to_win_chap_chap.svg\",\"label\":\"Spin2Win\",\"selected\":[\"betika-super-league\"]},{\"timestamp\":1779350749393,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-991\",\"sport_name\":\"offersNRewards\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/promotions\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":\"2022-12-23 14:57\",\"visible\":true,\"image\":null,\"label\":\"Promotions\",\"selected\":[\"promotions\"]},{\"timestamp\":1779350749393,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-1995\",\"sport_name\":\"leaderboard\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/leaderboard\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":null,\"visible\":false,\"image\":null,\"label\":\"Leaderboard\",\"selected\":[\"Leaderboard\"]},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"45\",\"sport_name\":\"Table Tennis\",\"categories\":[{\"category_id\":\"2333\",\"category_name\":\"International\",\"competitions\":[{\"competition_id\":\"40741\",\"competition_name\":\"TT Elite Series\"},{\"competition_id\":\"31975\",\"competition_name\":\"TT Cup\"},{\"competition_id\":\"19593\",\"competition_name\":\"Challenger Series \"}]},{\"category_id\":\"3295\",\"category_name\":\"Czech Republic\",\"competitions\":[{\"competition_id\":\"40616\",\"competition_name\":\"Czech Liga Pro\"}]}],\"top_leagues\":[],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"table-tennis\"},\"query_params\":null,\"image\":null,\"label\":\"Table Tennis\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"39\",\"sport_name\":\"Boxing\",\"categories\":[{\"category_id\":\"2215\",\"category_name\":\"International\",\"competitions\":[{\"competition_id\":\"25491\",\"competition_name\":\"International Matchups\"}]}],\"top_leagues\":{\"3\":{\"competition_id\":\"25491\",\"competition_name\":\"International Matchups\",\"sport_id\":\"39\",\"category_id\":\"2215\",\"category_name\":\"International\",\"count\":\"19\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"boxing\"},\"query_params\":null,\"image\":null,\"label\":\"Boxing\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"43\",\"sport_name\":\"Aussie Rules\",\"categories\":[{\"category_id\":\"2632\",\"category_name\":\"Australia\",\"competitions\":[{\"competition_id\":\"694\",\"competition_name\":\"AFL\"}]}],\"top_leagues\":[{\"competition_id\":\"694\",\"competition_name\":\"AFL\",\"sport_id\":\"43\",\"category_id\":\"2632\",\"category_name\":\"Australia\",\"count\":\"9\"}],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"aussie-rules\"},\"query_params\":null,\"image\":null,\"label\":\"Aussie Rules\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"37\",\"sport_name\":\"Cricket\",\"categories\":[{\"category_id\":\"2085\",\"category_name\":\"England\",\"competitions\":[{\"competition_id\":\"46237\",\"competition_name\":\"T20 Blast\"}]},{\"category_id\":\"2090\",\"category_name\":\"International\",\"competitions\":[{\"competition_id\":\"46288\",\"competition_name\":\"T20 World Cup Sub Regional Europe Qualifier A\"},{\"competition_id\":\"31088\",\"competition_name\":\"ICC Cricket World Cup League Two\"}]},{\"category_id\":\"2759\",\"category_name\":\"Czech Republic\",\"competitions\":[{\"competition_id\":\"50717\",\"competition_name\":\"T10 ECS Czechia, Challenger\"}]},{\"category_id\":\"2202\",\"category_name\":\"India\",\"competitions\":[{\"competition_id\":\"25162\",\"competition_name\":\"Indian Premier League\"}]},{\"category_id\":\"117290\",\"category_name\":\"International Clubs\",\"competitions\":[{\"competition_id\":\"53738\",\"competition_name\":\"T20 East African Safari Challenge\"}]},{\"category_id\":\"3268\",\"category_name\":\"Nepal\",\"competitions\":[{\"competition_id\":\"53756\",\"competition_name\":\"T20 Madhesh Cricket League\"}]},{\"category_id\":\"117850\",\"category_name\":\"Nigeria\",\"competitions\":[{\"competition_id\":\"53770\",\"competition_name\":\"T20 Super League\"}]},{\"category_id\":\"2713\",\"category_name\":\"Simulated Reality League\",\"competitions\":[{\"competition_id\":\"34321\",\"competition_name\":\"Big Bash League SRL\"},{\"competition_id\":\"41214\",\"competition_name\":\"T20 International SRL\"},{\"competition_id\":\"41206\",\"competition_name\":\"Pakistan Super League SRL\"},{\"competition_id\":\"43287\",\"competition_name\":\"SA T20 League SRL\"},{\"competition_id\":\"50250\",\"competition_name\":\"Super Smash SRL\"},{\"competition_id\":\"41263\",\"competition_name\":\"Caribbean Premier League SRL\"}]}],\"top_leagues\":{\"9\":{\"competition_id\":\"53770\",\"competition_name\":\"T20 Super League\",\"sport_id\":\"37\",\"category_id\":\"117850\",\"category_name\":\"Nigeria\",\"count\":\"2\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"cricket\"},\"query_params\":null,\"image\":null,\"label\":\"Cricket\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"31\",\"sport_name\":\"Baseball\",\"categories\":[{\"category_id\":\"2720\",\"category_name\":\"Chinese Taipei\",\"competitions\":[{\"competition_id\":\"32339\",\"competition_name\":\"CPBL\"}]},{\"category_id\":\"2077\",\"category_name\":\"Japan\",\"competitions\":[{\"competition_id\":\"43194\",\"competition_name\":\"NPB\"}]},{\"category_id\":\"2226\",\"category_name\":\"Republic of Korea\",\"competitions\":[{\"competition_id\":\"17469\",\"competition_name\":\"KBO League\"}]},{\"category_id\":\"2070\",\"category_name\":\"USA\",\"competitions\":[{\"competition_id\":\"511\",\"competition_name\":\"MLB\"}]}],\"top_leagues\":{\"1\":{\"competition_id\":\"511\",\"competition_name\":\"MLB\",\"sport_id\":\"31\",\"category_id\":\"2070\",\"category_name\":\"USA\",\"count\":\"7\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"baseball\"},\"query_params\":null,\"image\":null,\"label\":\"Baseball\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"30\",\"sport_name\":\"Basketball\",\"categories\":[{\"category_id\":\"2095\",\"category_name\":\"Spain\",\"competitions\":[{\"competition_id\":\"47179\",\"competition_name\":\"Primera FEB\"}]},{\"category_id\":\"2129\",\"category_name\":\"Italy\",\"competitions\":[{\"competition_id\":\"546\",\"competition_name\":\"Serie A\"},{\"competition_id\":\"19529\",\"competition_name\":\"Serie A2\"},{\"competition_id\":\"30005\",\"competition_name\":\"Serie B\"}]},{\"category_id\":\"2101\",\"category_name\":\"Germany\",\"competitions\":[{\"competition_id\":\"760\",\"competition_name\":\"BBL\"}]},{\"category_id\":\"2108\",\"category_name\":\"France\",\"competitions\":[{\"competition_id\":\"47801\",\"competition_name\":\"Nationale 1\"},{\"competition_id\":\"51061\",\"competition_name\":\"LNB Elite 2\"},{\"competition_id\":\"45768\",\"competition_name\":\"LNB Elite\"}]},{\"category_id\":\"2420\",\"category_name\":\"Netherlands\",\"competitions\":[{\"competition_id\":\"40142\",\"competition_name\":\"BNXT Dutch League\"}]},{\"category_id\":\"2112\",\"category_name\":\"International\",\"competitions\":[{\"competition_id\":\"20254\",\"competition_name\":\"United League\"},{\"competition_id\":\"9015\",\"competition_name\":\"Euroleague\"},{\"competition_id\":\"11267\",\"competition_name\":\"Liga ABA\"},{\"competition_id\":\"50349\",\"competition_name\":\"Champions League Asia - East\"}]},{\"category_id\":\"2183\",\"category_name\":\"Argentina\",\"competitions\":[{\"competition_id\":\"51934\",\"competition_name\":\"Liga Femenina, Women\"}]},{\"category_id\":\"2279\",\"category_name\":\"Belgium\",\"competitions\":[{\"competition_id\":\"39536\",\"competition_name\":\"BNXT Belgian League\"}]},{\"category_id\":\"2182\",\"category_name\":\"Brazil\",\"competitions\":[{\"competition_id\":\"43407\",\"competition_name\":\"LBF, Women\"},{\"competition_id\":\"11899\",\"competition_name\":\"NBB\"}]},{\"category_id\":\"2459\",\"category_name\":\"Chile\",\"competitions\":[{\"competition_id\":\"45774\",\"competition_name\":\"LNB\"}]},{\"category_id\":\"2180\",\"category_name\":\"China\",\"competitions\":[{\"competition_id\":\"11814\",\"competition_name\":\"CBA\"}]},{\"category_id\":\"2673\",\"category_name\":\"Chinese Taipei\",\"competitions\":[{\"competition_id\":\"40786\",\"competition_name\":\"P League\"}]},{\"category_id\":\"2235\",\"category_name\":\"Croatia\",\"competitions\":[{\"competition_id\":\"30188\",\"competition_name\":\"Premijer liga\"}]},{\"category_id\":\"2458\",\"category_name\":\"Cyprus\",\"competitions\":[{\"competition_id\":\"20830\",\"competition_name\":\"Division A\"}]},{\"category_id\":\"2319\",\"category_name\":\"Czech Republic\",\"competitions\":[{\"competition_id\":\"19998\",\"competition_name\":\"NBL\"}]},{\"category_id\":\"2395\",\"category_name\":\"Denmark\",\"competitions\":[{\"competition_id\":\"19946\",\"competition_name\":\"Basketligaen\"}]},{\"category_id\":\"3246\",\"category_name\":\"Dominican Republic\",\"competitions\":[{\"competition_id\":\"38578\",\"competition_name\":\"LNB\"}]},{\"category_id\":\"117605\",\"category_name\":\"Georgia\",\"competitions\":[{\"competition_id\":\"48278\",\"competition_name\":\"Superleague\"}]},{\"category_id\":\"2357\",\"category_name\":\"Hungary\",\"competitions\":[{\"competition_id\":\"42422\",\"competition_name\":\"NB I. A\"}]},{\"category_id\":\"2374\",\"category_name\":\"Israel\",\"competitions\":[{\"competition_id\":\"21018\",\"competition_name\":\"National League\"}]},{\"category_id\":\"117517\",\"category_name\":\"Jordan\",\"competitions\":[{\"competition_id\":\"49155\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"3115\",\"category_name\":\"Lebanon\",\"competitions\":[{\"competition_id\":\"37153\",\"competition_name\":\"First Division\"}]},{\"category_id\":\"2247\",\"category_name\":\"Lithuania\",\"competitions\":[{\"competition_id\":\"562\",\"competition_name\":\"LKL\"}]},{\"category_id\":\"2625\",\"category_name\":\"New Zealand\",\"competitions\":[{\"competition_id\":\"25991\",\"competition_name\":\"NBL\"}]},{\"category_id\":\"117511\",\"category_name\":\"Paraguay\",\"competitions\":[{\"competition_id\":\"50233\",\"competition_name\":\"LNB\"}]},{\"category_id\":\"2276\",\"category_name\":\"Poland\",\"competitions\":[{\"competition_id\":\"606\",\"competition_name\":\"PLK\"}]},{\"category_id\":\"2428\",\"category_name\":\"Portugal\",\"competitions\":[{\"competition_id\":\"20164\",\"competition_name\":\"LPB\"}]},{\"category_id\":\"2161\",\"category_name\":\"Puerto Rico\",\"competitions\":[{\"competition_id\":\"39408\",\"competition_name\":\"BSN\"}]},{\"category_id\":\"2422\",\"category_name\":\"Romania\",\"competitions\":[{\"competition_id\":\"20083\",\"competition_name\":\"Liga Nationala\"}]},{\"category_id\":\"2344\",\"category_name\":\"Russia\",\"competitions\":[{\"competition_id\":\"51653\",\"competition_name\":\"Super League\"}]},{\"category_id\":\"2429\",\"category_name\":\"Slovakia\",\"competitions\":[{\"competition_id\":\"20590\",\"competition_name\":\"Extraliga\"}]},{\"category_id\":\"2324\",\"category_name\":\"Slovenia\",\"competitions\":[{\"competition_id\":\"20168\",\"competition_name\":\"1. A SKL\"}]},{\"category_id\":\"2408\",\"category_name\":\"Sweden\",\"competitions\":[{\"competition_id\":\"39252\",\"competition_name\":\"Superettan\"}]},{\"category_id\":\"117239\",\"category_name\":\"Turkiye\",\"competitions\":[{\"competition_id\":\"45760\",\"competition_name\":\"TBL\"}]},{\"category_id\":\"2430\",\"category_name\":\"Uruguay\",\"competitions\":[{\"competition_id\":\"50223\",\"competition_name\":\"LFB, Women\"},{\"competition_id\":\"20173\",\"competition_name\":\"LUB\"}]},{\"category_id\":\"2087\",\"category_name\":\"USA\",\"competitions\":[{\"competition_id\":\"799\",\"competition_name\":\"WNBA\"},{\"competition_id\":\"9207\",\"competition_name\":\"NBA\"}]},{\"category_id\":\"3116\",\"category_name\":\"Venezuela\",\"competitions\":[{\"competition_id\":\"37169\",\"competition_name\":\"SuperLiga\"}]},{\"category_id\":\"3237\",\"category_name\":\"Vietnam\",\"competitions\":[{\"competition_id\":\"38334\",\"competition_name\":\"VBA\"}]}],\"top_leagues\":{\"2\":{\"competition_id\":\"9207\",\"competition_name\":\"NBA\",\"sport_id\":\"30\",\"category_id\":\"2087\",\"category_name\":\"USA\",\"count\":\"2\"},\"5\":{\"competition_id\":\"9015\",\"competition_name\":\"Euroleague\",\"sport_id\":\"30\",\"category_id\":\"2112\",\"category_name\":\"International\",\"count\":\"2\"},\"9\":{\"competition_id\":\"760\",\"competition_name\":\"BBL\",\"sport_id\":\"30\",\"category_id\":\"2101\",\"category_name\":\"Germany\",\"count\":\"4\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"basketball\"},\"query_params\":null,\"image\":null,\"label\":\"Basketball\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"29\",\"sport_name\":\"Ice Hockey\",\"categories\":[{\"category_id\":\"2103\",\"category_name\":\"International\",\"competitions\":[{\"competition_id\":\"24545\",\"competition_name\":\"World Championship\"}]},{\"category_id\":\"2075\",\"category_name\":\"Russia\",\"competitions\":[{\"competition_id\":\"8885\",\"competition_name\":\"KHL\"},{\"competition_id\":\"19633\",\"competition_name\":\"VHL\"}]},{\"category_id\":\"2084\",\"category_name\":\"USA\",\"competitions\":[{\"competition_id\":\"9016\",\"competition_name\":\"NHL\"},{\"competition_id\":\"20044\",\"competition_name\":\"AHL\"}]}],\"top_leagues\":{\"0\":{\"competition_id\":\"8885\",\"competition_name\":\"KHL\",\"sport_id\":\"29\",\"category_id\":\"2075\",\"category_name\":\"Russia\",\"count\":\"1\"},\"6\":{\"competition_id\":\"9016\",\"competition_name\":\"NHL\",\"sport_id\":\"29\",\"category_id\":\"2084\",\"category_name\":\"USA\",\"count\":\"3\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"ice-hockey\"},\"query_params\":null,\"image\":null,\"label\":\"Ice Hockey\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"41\",\"sport_name\":\"Rugby\",\"categories\":[{\"category_id\":\"2076\",\"category_name\":\"Rugby League\",\"competitions\":[{\"competition_id\":\"45534\",\"competition_name\":\"NRL Premiership\"},{\"competition_id\":\"1610\",\"competition_name\":\"State of Origin\"},{\"competition_id\":\"777\",\"competition_name\":\"Super League\"}]},{\"category_id\":\"2069\",\"category_name\":\"Rugby Union\",\"competitions\":[{\"competition_id\":\"20110\",\"competition_name\":\"European Challenge Cup\"},{\"competition_id\":\"39273\",\"competition_name\":\"United Rugby Championship\"},{\"competition_id\":\"848\",\"competition_name\":\"Pro D2\"},{\"competition_id\":\"705\",\"competition_name\":\"Super Rugby\"}]}],\"top_leagues\":[],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"rugby\"},\"query_params\":null,\"image\":null,\"label\":\"Rugby\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"134\",\"sport_name\":\"ESport League of Legends\",\"categories\":[{\"category_id\":\"117833\",\"category_name\":\"EWC\",\"competitions\":[{\"competition_id\":\"53385\",\"competition_name\":\"Esports World Cup\"}]},{\"category_id\":\"117817\",\"category_name\":\"Inygon\",\"competitions\":[{\"competition_id\":\"53085\",\"competition_name\":\"LPLOL\"}]},{\"category_id\":\"117783\",\"category_name\":\"KeSPA LoL\",\"competitions\":[{\"competition_id\":\"52831\",\"competition_name\":\"LCK CL\"}]},{\"category_id\":\"3358\",\"category_name\":\"Riot LoL\",\"competitions\":[{\"competition_id\":\"51582\",\"competition_name\":\"TCL\"},{\"competition_id\":\"53415\",\"competition_name\":\"LCK\"},{\"competition_id\":\"52959\",\"competition_name\":\"Prime League\"},{\"competition_id\":\"51629\",\"competition_name\":\"LJL\"},{\"competition_id\":\"51580\",\"competition_name\":\"LFL\"}]},{\"category_id\":\"117466\",\"category_name\":\"TJ Sports\",\"competitions\":[{\"competition_id\":\"45993\",\"competition_name\":\"LPL\"}]}],\"top_leagues\":{\"3\":{\"competition_id\":\"45993\",\"competition_name\":\"LPL\",\"sport_id\":\"134\",\"category_id\":\"117466\",\"category_name\":\"TJ Sports\",\"count\":\"1\"},\"5\":{\"competition_id\":\"51577\",\"competition_name\":\"Road of Legends\",\"sport_id\":\"134\",\"category_id\":\"0\",\"category_name\":\"GameWaves\",\"count\":\"2\"},\"6\":{\"competition_id\":\"51580\",\"competition_name\":\"LFL\",\"sport_id\":\"134\",\"category_id\":\"3358\",\"category_name\":\"Riot LoL\",\"count\":\"2\"},\"7\":{\"competition_id\":\"51582\",\"competition_name\":\"TCL\",\"sport_id\":\"134\",\"category_id\":\"3358\",\"category_name\":\"Riot LoL\",\"count\":\"1\"},\"9\":{\"competition_id\":\"51629\",\"competition_name\":\"LJL\",\"sport_id\":\"134\",\"category_id\":\"3358\",\"category_name\":\"Riot LoL\",\"count\":\"4\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"esport-league-of-legends\"},\"query_params\":null,\"image\":null,\"label\":\"ESport League of Legends\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"28\",\"sport_name\":\"Tennis\",\"categories\":[{\"category_id\":\"2066\",\"category_name\":\"ATP\",\"competitions\":[{\"competition_id\":\"26623\",\"competition_name\":\"ATP Geneva, Switzerland Men Singles\"},{\"competition_id\":\"28063\",\"competition_name\":\"ATP Hamburg, Germany Men Singles\"},{\"competition_id\":\"26639\",\"competition_name\":\"French Open Men Singles\"},{\"competition_id\":\"46210\",\"competition_name\":\"ATP Geneva, Switzerland Men Doubles\"},{\"competition_id\":\"34324\",\"competition_name\":\"ATP Hamburg, Germany Men Doubles\"}]},{\"category_id\":\"2157\",\"category_name\":\"Challenger\",\"competitions\":[{\"competition_id\":\"29234\",\"competition_name\":\"ATP Challenger Istanbul, Turkey Men Singles\"},{\"competition_id\":\"53776\",\"competition_name\":\"ATP Challenger Bengaluru 3, India Men Singles\"},{\"competition_id\":\"35857\",\"competition_name\":\"ATP Challenger Istanbul, Turkey Men Doubles\"},{\"competition_id\":\"53806\",\"competition_name\":\"ATP Challenger Bengaluru 3, India Men Doubles\"},{\"competition_id\":\"53771\",\"competition_name\":\"ATP Challenger Cervia, Italy Men Singles\"},{\"competition_id\":\"53774\",\"competition_name\":\"ATP Challenger Cervia, Italy Men Doubles\"}]},{\"category_id\":\"117670\",\"category_name\":\"UTR Men\",\"competitions\":[{\"competition_id\":\"50546\",\"competition_name\":\"UTR Ahaus M01\"},{\"competition_id\":\"50447\",\"competition_name\":\"UTR Tuscaloosa M01\"},{\"competition_id\":\"53795\",\"competition_name\":\"UTR PTT Madison Men 01\"},{\"competition_id\":\"51620\",\"competition_name\":\"UTR PTT Newport Beach Men 12\"}]},{\"category_id\":\"117673\",\"category_name\":\"UTR Women\",\"competitions\":[{\"competition_id\":\"50549\",\"competition_name\":\"UTR Ahaus W01\"},{\"competition_id\":\"53794\",\"competition_name\":\"UTR PTT Tuscaloosa Women 01\"},{\"competition_id\":\"53796\",\"competition_name\":\"UTR PTT Madison Women 01\"},{\"competition_id\":\"51140\",\"competition_name\":\"UTR PTT Newport Beach Women 12\"}]},{\"category_id\":\"2067\",\"category_name\":\"WTA\",\"competitions\":[{\"competition_id\":\"26621\",\"competition_name\":\"WTA Strasbourg, France Women Singles\"},{\"competition_id\":\"26233\",\"competition_name\":\"WTA Rabat, Morocco Women Singles\"},{\"competition_id\":\"26661\",\"competition_name\":\"French Open Women Singles\"},{\"competition_id\":\"34326\",\"competition_name\":\"WTA Strasbourg, France Women Doubles\"},{\"competition_id\":\"46216\",\"competition_name\":\"WTA Rabat, Morocco Women Doubles\"}]}],\"top_leagues\":{\"6\":{\"competition_id\":\"53806\",\"competition_name\":\"ATP Challenger Bengaluru 3, India Men Doubles\",\"sport_id\":\"28\",\"category_id\":\"2157\",\"category_name\":\"Challenger\",\"count\":\"4\"},\"8\":{\"competition_id\":\"53796\",\"competition_name\":\"UTR PTT Madison Women 01\",\"sport_id\":\"28\",\"category_id\":\"117673\",\"category_name\":\"UTR Women\",\"count\":\"4\"},\"9\":{\"competition_id\":\"53795\",\"competition_name\":\"UTR PTT Madison Men 01\",\"sport_id\":\"28\",\"category_id\":\"117670\",\"category_name\":\"UTR Men\",\"count\":\"4\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"tennis\"},\"query_params\":null,\"image\":null,\"label\":\"Tennis\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"132\",\"sport_name\":\"ESport Counter-Strike\",\"categories\":[{\"category_id\":\"117835\",\"category_name\":\"Dust2.br\",\"competitions\":[{\"competition_id\":\"53464\",\"competition_name\":\"BB Storm, Playoffs\"},{\"competition_id\":\"53833\",\"competition_name\":\"BetBoom Storm\"}]},{\"category_id\":\"117794\",\"category_name\":\"European Pro League\",\"competitions\":[{\"competition_id\":\"53575\",\"competition_name\":\"European Pro League Regular\"}]},{\"category_id\":\"117796\",\"category_name\":\"NODWIN Gaming\",\"competitions\":[{\"competition_id\":\"52753\",\"competition_name\":\"NODWIN Clutch Series\"}]},{\"category_id\":\"117853\",\"category_name\":\"Perfect World CS:GO\",\"competitions\":[{\"competition_id\":\"53802\",\"competition_name\":\"CS Asia Championships\"}]},{\"category_id\":\"117744\",\"category_name\":\"United21\",\"competitions\":[{\"competition_id\":\"51605\",\"competition_name\":\"United21\"}]},{\"category_id\":\"117822\",\"category_name\":\"Vanta\",\"competitions\":[{\"competition_id\":\"53246\",\"competition_name\":\"BC Game Masters\"}]}],\"top_leagues\":[],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"esport-counter-strike\"},\"query_params\":null,\"image\":null,\"label\":\"ESport Counter-Strike\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"33\",\"sport_name\":\"Handball\",\"categories\":[{\"category_id\":\"2245\",\"category_name\":\"Spain\",\"competitions\":[{\"competition_id\":\"20042\",\"competition_name\":\"Liga Asobal\"}]},{\"category_id\":\"2244\",\"category_name\":\"Germany\",\"competitions\":[{\"competition_id\":\"680\",\"competition_name\":\"Bundesliga\"},{\"competition_id\":\"43605\",\"competition_name\":\"2. HBL\"}]},{\"category_id\":\"2264\",\"category_name\":\"France\",\"competitions\":[{\"competition_id\":\"23265\",\"competition_name\":\"Coupe de France\"},{\"competition_id\":\"16588\",\"competition_name\":\"LNH Proligue\"},{\"competition_id\":\"20280\",\"competition_name\":\"LNH Division 1\"}]},{\"category_id\":\"2361\",\"category_name\":\"Austria\",\"competitions\":[{\"competition_id\":\"43607\",\"competition_name\":\"WHA Meisterliga, Women\"}]},{\"category_id\":\"2262\",\"category_name\":\"Denmark\",\"competitions\":[{\"competition_id\":\"41763\",\"competition_name\":\"Kvindeligaen, Women\"}]},{\"category_id\":\"2432\",\"category_name\":\"Israel\",\"competitions\":[{\"competition_id\":\"20193\",\"competition_name\":\"Division 1\"}]},{\"category_id\":\"2343\",\"category_name\":\"Norway\",\"competitions\":[{\"competition_id\":\"19719\",\"competition_name\":\"Eliteserien Women\"},{\"competition_id\":\"19677\",\"competition_name\":\"Eliteserien\"}]},{\"category_id\":\"2339\",\"category_name\":\"Romania\",\"competitions\":[{\"competition_id\":\"19663\",\"competition_name\":\"Liga Nationala\"}]},{\"category_id\":\"2354\",\"category_name\":\"Russia\",\"competitions\":[{\"competition_id\":\"19705\",\"competition_name\":\"Super League, Women\"}]},{\"category_id\":\"2256\",\"category_name\":\"Sweden\",\"competitions\":[{\"competition_id\":\"19706\",\"competition_name\":\"Elitserien Women\"},{\"competition_id\":\"28883\",\"competition_name\":\"Handbollsligan\"}]}],\"top_leagues\":{\"0\":{\"competition_id\":\"680\",\"competition_name\":\"Bundesliga\",\"sport_id\":\"33\",\"category_id\":\"2244\",\"category_name\":\"Germany\",\"count\":\"8\"},\"3\":{\"competition_id\":\"20042\",\"competition_name\":\"Liga Asobal\",\"sport_id\":\"33\",\"category_id\":\"2245\",\"category_name\":\"Spain\",\"count\":\"8\"},\"4\":{\"competition_id\":\"16588\",\"competition_name\":\"LNH Proligue\",\"sport_id\":\"33\",\"category_id\":\"2264\",\"category_name\":\"France\",\"count\":\"3\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"handball\"},\"query_params\":null,\"image\":null,\"label\":\"Handball\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"133\",\"sport_name\":\"ESport Dota\",\"categories\":[{\"category_id\":\"117751\",\"category_name\":\"Dreamhack Dota2\",\"competitions\":[{\"competition_id\":\"51748\",\"competition_name\":\"DreamLeague\"}]}],\"top_leagues\":[],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"esport-dota\"},\"query_params\":null,\"image\":null,\"label\":\"ESport Dota\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"44\",\"sport_name\":\"Darts\",\"categories\":[{\"category_id\":\"2068\",\"category_name\":\"International\",\"competitions\":[{\"competition_id\":\"24264\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"42090\",\"competition_name\":\"Modus Super Series\"}]}],\"top_leagues\":[],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"darts\"},\"query_params\":null,\"image\":null,\"label\":\"Darts\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"40\",\"sport_name\":\"Futsal\",\"categories\":[{\"category_id\":\"2402\",\"category_name\":\"Portugal\",\"competitions\":[{\"competition_id\":\"19966\",\"competition_name\":\"1a Divisao\"}]},{\"category_id\":\"2442\",\"category_name\":\"Russia\",\"competitions\":[{\"competition_id\":\"20589\",\"competition_name\":\"Superliga\"}]}],\"top_leagues\":[],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"futsal\"},\"query_params\":null,\"image\":null,\"label\":\"Futsal\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"105\",\"sport_name\":\"eSoccer\",\"categories\":[{\"category_id\":\"117312\",\"category_name\":\"eAdriatic League\",\"competitions\":[{\"competition_id\":\"43822\",\"competition_name\":\"eAdriatic League\"}]},{\"category_id\":\"3081\",\"category_name\":\"Gt Sports League\",\"competitions\":[{\"competition_id\":\"44877\",\"competition_name\":\"GT Leagues\"}]}],\"top_leagues\":[],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"esoccer\"},\"query_params\":null,\"image\":null,\"label\":\"eSoccer\"},{\"timestamp\":1779350749400,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"35\",\"sport_name\":\"Volleyball\",\"categories\":[{\"category_id\":\"2246\",\"category_name\":\"Russia\",\"competitions\":[{\"competition_id\":\"32693\",\"competition_name\":\"Pro League\"}]}],\"top_leagues\":[],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"volleyball\"},\"query_params\":null,\"image\":null,\"label\":\"Volleyball\"},{\"timestamp\":1779350749400,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"36\",\"sport_name\":\"MMA\",\"categories\":[{\"category_id\":\"117516\",\"category_name\":\"PFL\",\"competitions\":[{\"competition_id\":\"53696\",\"competition_name\":\"PFL Brussels: Habirora vs Henderson\"}]},{\"category_id\":\"2488\",\"category_name\":\"UFC\",\"competitions\":[{\"competition_id\":\"53360\",\"competition_name\":\"UFC Fight Night: Song vs. Figueiredo\"}]}],\"top_leagues\":{\"7\":{\"competition_id\":\"53696\",\"competition_name\":\"PFL Brussels: Habirora vs Henderson\",\"sport_id\":\"36\",\"category_id\":\"117516\",\"category_name\":\"PFL\",\"count\":\"11\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"mma\"},\"query_params\":null,\"image\":null,\"label\":\"MMA\"},{\"timestamp\":1779350749403,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-1999\",\"sport_name\":\"appLink\",\"categories\":[],\"top_leagues\":[],\"external_link\":true,\"route\":\"http://app.betika.com/?utm_source=Betika_Mobile_Web&utm_medium=Banner&utm_campaign=Download_App&utm_content=Click_From_Navbar\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":null,\"visible\":true,\"image\":null,\"label\":\"Download App\",\"selected\":[]},{\"timestamp\":1779350749403,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-1998\",\"sport_name\":\"livescore\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/livescore\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":null,\"visible\":true,\"image\":null,\"label\":\"Livescore\",\"selected\":[\"livescore\"]}]"
+        },
+        {
+          "name": "betika-cashout-settings",
+          "value": "[{\"rule_name\":\"competition\",\"rule_values\":\"19508,19488,33641\"},{\"rule_name\":\"sport\",\"rule_values\":\"14\"},{\"rule_name\":\"sub_type_id\",\"rule_values\":\"2,1,18,1,18,10,47,14,29,45,41,8,19,20,880,879,881,23,24,26,199,21,32,31,13,60,68,62,63,75,81,72,73,77,76,80,71,69,70,83,90,85,95,97,92,91,96,162,166,167,168,169,170,171,172,173,177,174,178,179,182,180,181,183,37,35,547,546,79,78,544,543,113,116,115,897,119,121,118\"}]"
+        },
+        {
+          "name": "ga4sid",
+          "value": "s1779350333$o1$g1$t1779350509$j45$l0$h0"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1779350333074},\"expires\":1787126333074},\"last_convs\":{\"value\":[],\"expires\":1787126335172}}"
+        },
+        {
+          "name": "_tab_ids",
+          "value": "[\"821c42dd-77cd-49c0-8838-ab5f81c4ce0c_1779609534294\",\"03ec3e15-12d8-4062-abab-75a90d86825d_1779609694327\",\"d6df4a1a-be67-4cc1-972b-87dbc907b362_1779609951645\",\"d21e1f86-5902-466b-a635-2aa54c962861_1779610033017\"]"
+        },
+        {
+          "name": "selected-sport",
+          "value": "{\"sport_id\":\"14\",\"sport_name\":\"Soccer\",\"categories\":[{\"category_id\":\"1960\",\"category_name\":\"England\",\"competitions\":[{\"competition_id\":\"222\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"203\",\"competition_name\":\"League One\"},{\"competition_id\":\"204\",\"competition_name\":\"League Two\"},{\"competition_id\":\"167\",\"competition_name\":\"Championship\"}]},{\"category_id\":\"2007\",\"category_name\":\"Spain\",\"competitions\":[{\"competition_id\":\"14982\",\"competition_name\":\"LaLiga 2\"},{\"competition_id\":\"14482\",\"competition_name\":\"LaLiga\"},{\"competition_id\":\"51560\",\"competition_name\":\"U19 Division de Honor Juvenil\"},{\"competition_id\":\"42173\",\"competition_name\":\"Primera Federacion\"}]},{\"category_id\":\"2019\",\"category_name\":\"Italy\",\"competitions\":[{\"competition_id\":\"183\",\"competition_name\":\"Serie B\"},{\"competition_id\":\"182\",\"competition_name\":\"Serie A\"},{\"competition_id\":\"47162\",\"competition_name\":\"Primavera 1\"}]},{\"category_id\":\"1911\",\"category_name\":\"Germany\",\"competitions\":[{\"competition_id\":\"303\",\"competition_name\":\"DFB Pokal\"},{\"competition_id\":\"214\",\"competition_name\":\"Bundesliga\"},{\"competition_id\":\"45673\",\"competition_name\":\"2. Bundesliga\"}]},{\"category_id\":\"1976\",\"category_name\":\"France\",\"competitions\":[{\"competition_id\":\"169\",\"competition_name\":\"Coupe de France\"},{\"competition_id\":\"238\",\"competition_name\":\"Ligue 2\"},{\"competition_id\":\"209\",\"competition_name\":\"Ligue 1\"}]},{\"category_id\":\"1919\",\"category_name\":\"Scotland\",\"competitions\":[{\"competition_id\":\"234\",\"competition_name\":\"Premiership\"},{\"competition_id\":\"1076\",\"competition_name\":\"Scottish Cup\"}]},{\"category_id\":\"1970\",\"category_name\":\"Netherlands\",\"competitions\":[{\"competition_id\":\"191\",\"competition_name\":\"Eredivisie\"},{\"competition_id\":\"1051\",\"competition_name\":\"Eredivisie, Women\"}]},{\"category_id\":\"1939\",\"category_name\":\"International\",\"competitions\":[{\"competition_id\":\"52588\",\"competition_name\":\"FIFA World Cup\"},{\"competition_id\":\"976\",\"competition_name\":\"Int. Friendly Games\"}]},{\"category_id\":\"2055\",\"category_name\":\"Algeria\",\"competitions\":[{\"competition_id\":\"815\",\"competition_name\":\"Ligue 1\"}]},{\"category_id\":\"1940\",\"category_name\":\"Argentina\",\"competitions\":[{\"competition_id\":\"29049\",\"competition_name\":\"Primera Nacional\"},{\"competition_id\":\"49485\",\"competition_name\":\"Primera LPF\"},{\"competition_id\":\"49666\",\"competition_name\":\"Primera LPF, Reserves\"},{\"competition_id\":\"540\",\"competition_name\":\"Primera B\"},{\"competition_id\":\"20017\",\"competition_name\":\"Primera Division, Women\"},{\"competition_id\":\"18954\",\"competition_name\":\"Primera C\"},{\"competition_id\":\"1220\",\"competition_name\":\"Copa Argentina\"}]},{\"category_id\":\"1916\",\"category_name\":\"Australia\",\"competitions\":[{\"competition_id\":\"8952\",\"competition_name\":\"A-League\"},{\"competition_id\":\"41608\",\"competition_name\":\"U20 NSW NPL\"},{\"competition_id\":\"45870\",\"competition_name\":\"Victoria, NPL\"},{\"competition_id\":\"36804\",\"competition_name\":\"Queensland NPL\"},{\"competition_id\":\"36982\",\"competition_name\":\"Western Australia NPL\"},{\"competition_id\":\"36758\",\"competition_name\":\"NSW NPL 1\"},{\"competition_id\":\"37237\",\"competition_name\":\"Capital Npl 1\"},{\"competition_id\":\"37152\",\"competition_name\":\"Northern NSW NPL\"},{\"competition_id\":\"37005\",\"competition_name\":\"South Australia NPL\"},{\"competition_id\":\"37009\",\"competition_name\":\"Tasmania NPL\"},{\"competition_id\":\"49810\",\"competition_name\":\"NSW NPL, Women\"},{\"competition_id\":\"46394\",\"competition_name\":\"U23 Queensland NPL\"},{\"competition_id\":\"53335\",\"competition_name\":\"Northern Territory Premier League\"},{\"competition_id\":\"36924\",\"competition_name\":\"Queensland NPL, Women\"},{\"competition_id\":\"36918\",\"competition_name\":\"Queensland Premier League 1\"},{\"competition_id\":\"41447\",\"competition_name\":\"NSW League One\"},{\"competition_id\":\"37017\",\"competition_name\":\"Queensland Premier League 2\"},{\"competition_id\":\"41474\",\"competition_name\":\"NSW League Two\"},{\"competition_id\":\"45862\",\"competition_name\":\"Victoria Premier League 1\"},{\"competition_id\":\"49783\",\"competition_name\":\"Victoria Premier League 2\"},{\"competition_id\":\"37238\",\"competition_name\":\"Victoria Npl, Women\"},{\"competition_id\":\"49781\",\"competition_name\":\"South Australia NPL, Reserves, Women\"},{\"competition_id\":\"37217\",\"competition_name\":\"South Australia NPL, Women\"},{\"competition_id\":\"37233\",\"competition_name\":\"South Australia State League 1\"},{\"competition_id\":\"49557\",\"competition_name\":\"U23 Victoria Premier League 1\"},{\"competition_id\":\"46519\",\"competition_name\":\"U23 Queensland Premier League 1\"},{\"competition_id\":\"53097\",\"competition_name\":\"Northern NSW NPL, Women\"},{\"competition_id\":\"46686\",\"competition_name\":\"U20 NSW League One\"},{\"competition_id\":\"50022\",\"competition_name\":\"Queensland Premier League 3 Metro\"},{\"competition_id\":\"51084\",\"competition_name\":\"Queensland Premier League 1, Women\"}]},{\"category_id\":\"1944\",\"category_name\":\"Austria\",\"competitions\":[{\"competition_id\":\"200\",\"competition_name\":\"Bundesliga\"}]},{\"category_id\":\"1978\",\"category_name\":\"Austria Amateur\",\"competitions\":[{\"competition_id\":\"47336\",\"competition_name\":\"Wiener Stadtliga\"},{\"competition_id\":\"202\",\"competition_name\":\"Regionalliga Centre\"},{\"competition_id\":\"47463\",\"competition_name\":\"Steiermark, Landesliga\"},{\"competition_id\":\"46412\",\"competition_name\":\"Regionalliga Ost\"},{\"competition_id\":\"763\",\"competition_name\":\"Regionalliga West\"},{\"competition_id\":\"47126\",\"competition_name\":\"Karntner Liga\"}]},{\"category_id\":\"2041\",\"category_name\":\"Azerbaijan\",\"competitions\":[{\"competition_id\":\"20465\",\"competition_name\":\"First Division\"},{\"competition_id\":\"895\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"2089\",\"category_name\":\"Bahrain\",\"competitions\":[{\"competition_id\":\"910\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"1906\",\"category_name\":\"Belarus\",\"competitions\":[{\"competition_id\":\"19805\",\"competition_name\":\"Vysshaya Liga\"}]},{\"category_id\":\"1932\",\"category_name\":\"Belgium\",\"competitions\":[{\"competition_id\":\"8295\",\"competition_name\":\"Pro League\"},{\"competition_id\":\"20051\",\"competition_name\":\"Super League, Women\"}]},{\"category_id\":\"2050\",\"category_name\":\"Bolivia\",\"competitions\":[{\"competition_id\":\"36922\",\"competition_name\":\"Division Profesional\"}]},{\"category_id\":\"1966\",\"category_name\":\"Bosnia & Herzegovina\",\"competitions\":[{\"competition_id\":\"20001\",\"competition_name\":\"Prva Liga, Rep of Srpska\"},{\"competition_id\":\"883\",\"competition_name\":\"Premijer Liga\"},{\"competition_id\":\"19968\",\"competition_name\":\"Prva Liga, Fed BiH\"}]},{\"category_id\":\"96\",\"category_name\":\"Brazil\",\"competitions\":[{\"competition_id\":\"907\",\"competition_name\":\"Brasileiro Serie A\"},{\"competition_id\":\"908\",\"competition_name\":\"Brasileiro Serie B\"},{\"competition_id\":\"41099\",\"competition_name\":\"Cearense, Serie B\"},{\"competition_id\":\"31905\",\"competition_name\":\"Brasileiro Serie A2, Women\"},{\"competition_id\":\"49752\",\"competition_name\":\"U20 Brasileiro Serie A\"},{\"competition_id\":\"49969\",\"competition_name\":\"U20 Brasileiro Serie B\"},{\"competition_id\":\"12362\",\"competition_name\":\"Copa Verde\"},{\"competition_id\":\"30475\",\"competition_name\":\"Paulista, Women\"},{\"competition_id\":\"50127\",\"competition_name\":\"Brasileiro A1, Women\"},{\"competition_id\":\"24036\",\"competition_name\":\"Copa do Nordeste\"},{\"competition_id\":\"39810\",\"competition_name\":\"Copa FGF\"}]},{\"category_id\":\"1991\",\"category_name\":\"Bulgaria\",\"competitions\":[{\"competition_id\":\"41660\",\"competition_name\":\"Parva Liga\"},{\"competition_id\":\"47174\",\"competition_name\":\"Vtora Liga\"}]},{\"category_id\":\"1953\",\"category_name\":\"Chile\",\"competitions\":[{\"competition_id\":\"16728\",\"competition_name\":\"Primera Division\"},{\"competition_id\":\"16863\",\"competition_name\":\"Primera B\"}]},{\"category_id\":\"1910\",\"category_name\":\"China\",\"competitions\":[{\"competition_id\":\"724\",\"competition_name\":\"Chinese Super League\"},{\"competition_id\":\"25553\",\"competition_name\":\"China League 2\"}]},{\"category_id\":\"101\",\"category_name\":\"Colombia\",\"competitions\":[{\"competition_id\":\"52779\",\"competition_name\":\"Liga DIMAYOR\"},{\"competition_id\":\"53705\",\"competition_name\":\"Copa DIMAYOR\"},{\"competition_id\":\"52897\",\"competition_name\":\"Torneo DIMAYOR\"}]},{\"category_id\":\"1972\",\"category_name\":\"Croatia\",\"competitions\":[{\"competition_id\":\"41979\",\"competition_name\":\"HNL\"},{\"competition_id\":\"41908\",\"competition_name\":\"Prva NL\"}]},{\"category_id\":\"1998\",\"category_name\":\"Cyprus\",\"competitions\":[{\"competition_id\":\"8711\",\"competition_name\":\"1st Division\"}]},{\"category_id\":\"117478\",\"category_name\":\"Czechia\",\"competitions\":[{\"competition_id\":\"46243\",\"competition_name\":\"1. Liga\"},{\"competition_id\":\"46245\",\"competition_name\":\"FNL\"},{\"competition_id\":\"46242\",\"competition_name\":\"CFL\"},{\"competition_id\":\"46251\",\"competition_name\":\"MSFL\"}]},{\"category_id\":\"1950\",\"category_name\":\"Denmark\",\"competitions\":[{\"competition_id\":\"41845\",\"competition_name\":\"1. Division\"},{\"competition_id\":\"19489\",\"competition_name\":\"2nd Division\"},{\"competition_id\":\"41443\",\"competition_name\":\"Superliga\"},{\"competition_id\":\"38575\",\"competition_name\":\"3rd Division\"}]},{\"category_id\":\"2054\",\"category_name\":\"Denmark Amateur\",\"competitions\":[{\"competition_id\":\"41876\",\"competition_name\":\"Danmarksserien\"}]},{\"category_id\":\"1949\",\"category_name\":\"Ecuador\",\"competitions\":[{\"competition_id\":\"30482\",\"competition_name\":\"LigaPro Primera A\"},{\"competition_id\":\"27431\",\"competition_name\":\"Copa Ecuador\"}]},{\"category_id\":\"95\",\"category_name\":\"Egypt\",\"competitions\":[{\"competition_id\":\"725\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"1977\",\"category_name\":\"England Amateur\",\"competitions\":[{\"competition_id\":\"47758\",\"competition_name\":\"Super League Women\"}]},{\"category_id\":\"1965\",\"category_name\":\"Faroe Islands\",\"competitions\":[{\"competition_id\":\"711\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"503\",\"category_name\":\"Finland\",\"competitions\":[{\"competition_id\":\"236\",\"competition_name\":\"Veikkausliiga\"},{\"competition_id\":\"45936\",\"competition_name\":\"Ykkosliiga\"},{\"competition_id\":\"53521\",\"competition_name\":\"Kakkonen\"},{\"competition_id\":\"48436\",\"competition_name\":\"Kolmonen\"},{\"competition_id\":\"32612\",\"competition_name\":\"Kansallinen Liiga, Women\"}]},{\"category_id\":\"1983\",\"category_name\":\"Georgia\",\"competitions\":[{\"competition_id\":\"18347\",\"competition_name\":\"Erovnuli Liga\"}]},{\"category_id\":\"2024\",\"category_name\":\"Greece\",\"competitions\":[{\"competition_id\":\"8522\",\"competition_name\":\"Super League\"}]},{\"category_id\":\"1996\",\"category_name\":\"Guatemala\",\"competitions\":[{\"competition_id\":\"764\",\"competition_name\":\"Liga Nacional, Clausura\"}]},{\"category_id\":\"2032\",\"category_name\":\"Honduras\",\"competitions\":[{\"competition_id\":\"23956\",\"competition_name\":\"Liga Nacional. Clausura\"}]},{\"category_id\":\"1934\",\"category_name\":\"Hungary\",\"competitions\":[{\"competition_id\":\"47035\",\"competition_name\":\"NB III\"}]},{\"category_id\":\"1908\",\"category_name\":\"Iceland\",\"competitions\":[{\"competition_id\":\"43574\",\"competition_name\":\"Besta deild\"},{\"competition_id\":\"42071\",\"competition_name\":\"1. deild\"},{\"competition_id\":\"26359\",\"competition_name\":\"2. deild\"},{\"competition_id\":\"50289\",\"competition_name\":\"4. deild\"}]},{\"category_id\":\"2065\",\"category_name\":\"India\",\"competitions\":[{\"competition_id\":\"8854\",\"competition_name\":\"Indian Super League\"}]},{\"category_id\":\"98\",\"category_name\":\"International Clubs\",\"competitions\":[{\"competition_id\":\"49230\",\"competition_name\":\"CONMEBOL Libertadores\"},{\"competition_id\":\"49620\",\"competition_name\":\"CONMEBOL Sudamericana\"},{\"competition_id\":\"20393\",\"competition_name\":\"UEFA Champions League Women\"},{\"competition_id\":\"19508\",\"competition_name\":\"UEFA Champions League\"},{\"competition_id\":\"46357\",\"competition_name\":\"UEFA Conference League\"},{\"competition_id\":\"45849\",\"competition_name\":\"CONCACAF Champions Cup\"}]},{\"category_id\":\"2016\",\"category_name\":\"Iran\",\"competitions\":[{\"competition_id\":\"19485\",\"competition_name\":\"Azadegan League\"}]},{\"category_id\":\"2138\",\"category_name\":\"Ireland\",\"competitions\":[{\"competition_id\":\"14259\",\"competition_name\":\"First Division\"},{\"competition_id\":\"14256\",\"competition_name\":\"Premier Division\"}]},{\"category_id\":\"2017\",\"category_name\":\"Israel\",\"competitions\":[{\"competition_id\":\"8520\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"51308\",\"competition_name\":\"U19 Premier League\"},{\"competition_id\":\"8532\",\"competition_name\":\"National League\"}]},{\"category_id\":\"1833\",\"category_name\":\"Japan\",\"competitions\":[{\"competition_id\":\"52916\",\"competition_name\":\"J1 League\"}]},{\"category_id\":\"443\",\"category_name\":\"Kazakhstan\",\"competitions\":[{\"competition_id\":\"559\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"34303\",\"competition_name\":\"Pervaya Liga\"}]},{\"category_id\":\"2051\",\"category_name\":\"KOSOVO\",\"competitions\":[{\"competition_id\":\"24836\",\"competition_name\":\"Kosovo FA Cup\"}]},{\"category_id\":\"2133\",\"category_name\":\"Kuwait\",\"competitions\":[{\"competition_id\":\"35852\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"1947\",\"category_name\":\"Latvia\",\"competitions\":[{\"competition_id\":\"856\",\"competition_name\":\"Virsliga\"}]},{\"category_id\":\"1852\",\"category_name\":\"Lithuania\",\"competitions\":[{\"competition_id\":\"879\",\"competition_name\":\"1 Lyga\"},{\"competition_id\":\"20101\",\"competition_name\":\"A Lyga\"},{\"competition_id\":\"37149\",\"competition_name\":\"II Lyga\"}]},{\"category_id\":\"2044\",\"category_name\":\"Luxembourg\",\"competitions\":[{\"competition_id\":\"952\",\"competition_name\":\"Division Nationale\"}]},{\"category_id\":\"2195\",\"category_name\":\"Mali\",\"competitions\":[{\"competition_id\":\"45193\",\"competition_name\":\"Ligue 1\"}]},{\"category_id\":\"1975\",\"category_name\":\"Mexico\",\"competitions\":[{\"competition_id\":\"43044\",\"competition_name\":\"Liga MX, Clausura\"},{\"competition_id\":\"50537\",\"competition_name\":\"Campeon de Campeones Liga Expansion MX\"}]},{\"category_id\":\"2147\",\"category_name\":\"New Zealand\",\"competitions\":[{\"competition_id\":\"40792\",\"competition_name\":\"National League\"}]},{\"category_id\":\"1247\",\"category_name\":\"Norway\",\"competitions\":[{\"competition_id\":\"260\",\"competition_name\":\"Eliteserien\"},{\"competition_id\":\"20172\",\"competition_name\":\"NM Cup Women\"},{\"competition_id\":\"52949\",\"competition_name\":\"3. Division, Group 2\"},{\"competition_id\":\"414\",\"competition_name\":\"1st Division\"},{\"competition_id\":\"51176\",\"competition_name\":\"U19 Nasjonal\"}]},{\"category_id\":\"2009\",\"category_name\":\"Panama\",\"competitions\":[{\"competition_id\":\"45976\",\"competition_name\":\"Liga Prom\"}]},{\"category_id\":\"1688\",\"category_name\":\"Paraguay\",\"competitions\":[{\"competition_id\":\"53447\",\"competition_name\":\"Division Intermedia\"},{\"competition_id\":\"52849\",\"competition_name\":\"Division de Honor\"}]},{\"category_id\":\"444\",\"category_name\":\"Peru\",\"competitions\":[{\"competition_id\":\"45770\",\"competition_name\":\"Liga 1\"},{\"competition_id\":\"41069\",\"competition_name\":\"Liga Femenina\"}]},{\"category_id\":\"1847\",\"category_name\":\"Poland\",\"competitions\":[{\"competition_id\":\"7707\",\"competition_name\":\"Ekstraklasa\"},{\"competition_id\":\"50769\",\"competition_name\":\"1. Liga\"},{\"competition_id\":\"258\",\"competition_name\":\"II Liga\"},{\"competition_id\":\"18557\",\"competition_name\":\"III Liga, Group 1\"},{\"competition_id\":\"18558\",\"competition_name\":\"III Liga, Group 2\"},{\"competition_id\":\"18559\",\"competition_name\":\"III Liga, Group 3\"},{\"competition_id\":\"18562\",\"competition_name\":\"III Liga, Group 4\"}]},{\"category_id\":\"2013\",\"category_name\":\"Portugal\",\"competitions\":[{\"competition_id\":\"1234\",\"competition_name\":\"Taca de Portugal\"}]},{\"category_id\":\"2225\",\"category_name\":\"Republic of Korea\",\"competitions\":[{\"competition_id\":\"25321\",\"competition_name\":\"K-League 2\"}]},{\"category_id\":\"506\",\"category_name\":\"Romania\",\"competitions\":[{\"competition_id\":\"43168\",\"competition_name\":\"Superliga\"},{\"competition_id\":\"8654\",\"competition_name\":\"Liga 2\"}]},{\"category_id\":\"1943\",\"category_name\":\"Russia\",\"competitions\":[{\"competition_id\":\"678\",\"competition_name\":\"Russian Cup\"},{\"competition_id\":\"44508\",\"competition_name\":\"2. Liga, Division B, Group 2\"},{\"competition_id\":\"49803\",\"competition_name\":\"MFL, Division A\"},{\"competition_id\":\"249\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"44470\",\"competition_name\":\"2. Liga, Division A\"}]},{\"category_id\":\"2049\",\"category_name\":\"Saudi Arabia\",\"competitions\":[{\"competition_id\":\"43366\",\"competition_name\":\"Saudi Pro League\"}]},{\"category_id\":\"1971\",\"category_name\":\"Serbia\",\"competitions\":[{\"competition_id\":\"8407\",\"competition_name\":\"Superliga\"},{\"competition_id\":\"401\",\"competition_name\":\"Prva Liga\"},{\"competition_id\":\"51248\",\"competition_name\":\"U19 League\"}]},{\"category_id\":\"2717\",\"category_name\":\"Simulated Reality League\",\"competitions\":[{\"competition_id\":\"32732\",\"competition_name\":\"Copa Libertadores SRL\"}]},{\"category_id\":\"1963\",\"category_name\":\"Slovenia\",\"competitions\":[{\"competition_id\":\"857\",\"competition_name\":\"PrvaLiga\"},{\"competition_id\":\"39038\",\"competition_name\":\"2. Liga\"}]},{\"category_id\":\"2048\",\"category_name\":\"South Africa\",\"competitions\":[{\"competition_id\":\"43154\",\"competition_name\":\"Premiership\"}]},{\"category_id\":\"1848\",\"category_name\":\"Sweden\",\"competitions\":[{\"competition_id\":\"223\",\"competition_name\":\"Allsvenskan\"},{\"competition_id\":\"171\",\"competition_name\":\"Superettan\"},{\"competition_id\":\"261\",\"competition_name\":\"Damallsvenskan\"},{\"competition_id\":\"53421\",\"competition_name\":\"Ettan\"},{\"competition_id\":\"436\",\"competition_name\":\"Division 2, Norra Gotaland\"},{\"competition_id\":\"53370\",\"competition_name\":\"Division 2\"},{\"competition_id\":\"38224\",\"competition_name\":\"Ettan, Sodra\"}]},{\"category_id\":\"446\",\"category_name\":\"Sweden Amateur\",\"competitions\":[{\"competition_id\":\"43598\",\"competition_name\":\"Elitettan, Women\"}]},{\"category_id\":\"1926\",\"category_name\":\"Switzerland\",\"competitions\":[{\"competition_id\":\"232\",\"competition_name\":\"Super League\"},{\"competition_id\":\"997\",\"competition_name\":\"Promotion League\"}]},{\"category_id\":\"2010\",\"category_name\":\"Tunisia\",\"competitions\":[{\"competition_id\":\"8471\",\"competition_name\":\"Tunisian Cup\"}]},{\"category_id\":\"117238\",\"category_name\":\"Turkiye\",\"competitions\":[{\"competition_id\":\"42681\",\"competition_name\":\"1. Lig\"},{\"competition_id\":\"42669\",\"competition_name\":\"Turkiye Kupasi\"}]},{\"category_id\":\"1964\",\"category_name\":\"Ukraine\",\"competitions\":[{\"competition_id\":\"851\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"20697\",\"competition_name\":\"U19\"},{\"competition_id\":\"988\",\"competition_name\":\"Persha Liga\"}]},{\"category_id\":\"2059\",\"category_name\":\"Uruguay\",\"competitions\":[{\"competition_id\":\"19480\",\"competition_name\":\"Primera Division\"},{\"competition_id\":\"20111\",\"competition_name\":\"Segunda Division\"}]},{\"category_id\":\"97\",\"category_name\":\"USA\",\"competitions\":[{\"competition_id\":\"44909\",\"competition_name\":\"MLS\"},{\"competition_id\":\"25538\",\"competition_name\":\"National Womens Soccer League\"},{\"competition_id\":\"25331\",\"competition_name\":\"USL Championship\"},{\"competition_id\":\"26364\",\"competition_name\":\"USL League Two\"},{\"competition_id\":\"26125\",\"competition_name\":\"National Premier Soccer League\"},{\"competition_id\":\"41544\",\"competition_name\":\"USL W League\"}]}],\"top_leagues\":{\"9\":{\"competition_id\":\"19508\",\"competition_name\":\"UEFA Champions League\",\"sport_id\":\"14\",\"category_id\":\"98\",\"category_name\":\"International Clubs\",\"count\":\"1\"}}}"
+        },
+        {
+          "name": "authenticated",
+          "value": "true"
+        },
+        {
+          "name": "ga4cid",
+          "value": "454532308.1779350334"
+        },
+        {
+          "name": "nav-main-sports-ke-v22",
+          "value": "[{\"timestamp\":1779350749379,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"14\",\"sport_name\":\"Soccer\",\"categories\":[{\"category_id\":\"1960\",\"category_name\":\"England\",\"competitions\":[{\"competition_id\":\"222\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"203\",\"competition_name\":\"League One\"},{\"competition_id\":\"204\",\"competition_name\":\"League Two\"},{\"competition_id\":\"167\",\"competition_name\":\"Championship\"}]},{\"category_id\":\"2007\",\"category_name\":\"Spain\",\"competitions\":[{\"competition_id\":\"14982\",\"competition_name\":\"LaLiga 2\"},{\"competition_id\":\"14482\",\"competition_name\":\"LaLiga\"},{\"competition_id\":\"51560\",\"competition_name\":\"U19 Division de Honor Juvenil\"},{\"competition_id\":\"42173\",\"competition_name\":\"Primera Federacion\"}]},{\"category_id\":\"2019\",\"category_name\":\"Italy\",\"competitions\":[{\"competition_id\":\"183\",\"competition_name\":\"Serie B\"},{\"competition_id\":\"182\",\"competition_name\":\"Serie A\"},{\"competition_id\":\"47162\",\"competition_name\":\"Primavera 1\"}]},{\"category_id\":\"1911\",\"category_name\":\"Germany\",\"competitions\":[{\"competition_id\":\"303\",\"competition_name\":\"DFB Pokal\"},{\"competition_id\":\"214\",\"competition_name\":\"Bundesliga\"},{\"competition_id\":\"45673\",\"competition_name\":\"2. Bundesliga\"}]},{\"category_id\":\"1976\",\"category_name\":\"France\",\"competitions\":[{\"competition_id\":\"169\",\"competition_name\":\"Coupe de France\"},{\"competition_id\":\"238\",\"competition_name\":\"Ligue 2\"},{\"competition_id\":\"209\",\"competition_name\":\"Ligue 1\"}]},{\"category_id\":\"1919\",\"category_name\":\"Scotland\",\"competitions\":[{\"competition_id\":\"234\",\"competition_name\":\"Premiership\"},{\"competition_id\":\"1076\",\"competition_name\":\"Scottish Cup\"}]},{\"category_id\":\"1970\",\"category_name\":\"Netherlands\",\"competitions\":[{\"competition_id\":\"191\",\"competition_name\":\"Eredivisie\"},{\"competition_id\":\"1051\",\"competition_name\":\"Eredivisie, Women\"}]},{\"category_id\":\"1939\",\"category_name\":\"International\",\"competitions\":[{\"competition_id\":\"52588\",\"competition_name\":\"FIFA World Cup\"},{\"competition_id\":\"976\",\"competition_name\":\"Int. Friendly Games\"}]},{\"category_id\":\"2055\",\"category_name\":\"Algeria\",\"competitions\":[{\"competition_id\":\"815\",\"competition_name\":\"Ligue 1\"}]},{\"category_id\":\"1940\",\"category_name\":\"Argentina\",\"competitions\":[{\"competition_id\":\"29049\",\"competition_name\":\"Primera Nacional\"},{\"competition_id\":\"49485\",\"competition_name\":\"Primera LPF\"},{\"competition_id\":\"49666\",\"competition_name\":\"Primera LPF, Reserves\"},{\"competition_id\":\"540\",\"competition_name\":\"Primera B\"},{\"competition_id\":\"20017\",\"competition_name\":\"Primera Division, Women\"},{\"competition_id\":\"18954\",\"competition_name\":\"Primera C\"},{\"competition_id\":\"1220\",\"competition_name\":\"Copa Argentina\"}]},{\"category_id\":\"1916\",\"category_name\":\"Australia\",\"competitions\":[{\"competition_id\":\"8952\",\"competition_name\":\"A-League\"},{\"competition_id\":\"41608\",\"competition_name\":\"U20 NSW NPL\"},{\"competition_id\":\"45870\",\"competition_name\":\"Victoria, NPL\"},{\"competition_id\":\"36804\",\"competition_name\":\"Queensland NPL\"},{\"competition_id\":\"36982\",\"competition_name\":\"Western Australia NPL\"},{\"competition_id\":\"36758\",\"competition_name\":\"NSW NPL 1\"},{\"competition_id\":\"37237\",\"competition_name\":\"Capital Npl 1\"},{\"competition_id\":\"37152\",\"competition_name\":\"Northern NSW NPL\"},{\"competition_id\":\"37005\",\"competition_name\":\"South Australia NPL\"},{\"competition_id\":\"37009\",\"competition_name\":\"Tasmania NPL\"},{\"competition_id\":\"49810\",\"competition_name\":\"NSW NPL, Women\"},{\"competition_id\":\"46394\",\"competition_name\":\"U23 Queensland NPL\"},{\"competition_id\":\"53335\",\"competition_name\":\"Northern Territory Premier League\"},{\"competition_id\":\"36924\",\"competition_name\":\"Queensland NPL, Women\"},{\"competition_id\":\"36918\",\"competition_name\":\"Queensland Premier League 1\"},{\"competition_id\":\"41447\",\"competition_name\":\"NSW League One\"},{\"competition_id\":\"37017\",\"competition_name\":\"Queensland Premier League 2\"},{\"competition_id\":\"41474\",\"competition_name\":\"NSW League Two\"},{\"competition_id\":\"45862\",\"competition_name\":\"Victoria Premier League 1\"},{\"competition_id\":\"49783\",\"competition_name\":\"Victoria Premier League 2\"},{\"competition_id\":\"37238\",\"competition_name\":\"Victoria Npl, Women\"},{\"competition_id\":\"49781\",\"competition_name\":\"South Australia NPL, Reserves, Women\"},{\"competition_id\":\"37217\",\"competition_name\":\"South Australia NPL, Women\"},{\"competition_id\":\"37233\",\"competition_name\":\"South Australia State League 1\"},{\"competition_id\":\"49557\",\"competition_name\":\"U23 Victoria Premier League 1\"},{\"competition_id\":\"46519\",\"competition_name\":\"U23 Queensland Premier League 1\"},{\"competition_id\":\"53097\",\"competition_name\":\"Northern NSW NPL, Women\"},{\"competition_id\":\"46686\",\"competition_name\":\"U20 NSW League One\"},{\"competition_id\":\"50022\",\"competition_name\":\"Queensland Premier League 3 Metro\"},{\"competition_id\":\"51084\",\"competition_name\":\"Queensland Premier League 1, Women\"}]},{\"category_id\":\"1944\",\"category_name\":\"Austria\",\"competitions\":[{\"competition_id\":\"200\",\"competition_name\":\"Bundesliga\"}]},{\"category_id\":\"1978\",\"category_name\":\"Austria Amateur\",\"competitions\":[{\"competition_id\":\"47336\",\"competition_name\":\"Wiener Stadtliga\"},{\"competition_id\":\"202\",\"competition_name\":\"Regionalliga Centre\"},{\"competition_id\":\"47463\",\"competition_name\":\"Steiermark, Landesliga\"},{\"competition_id\":\"46412\",\"competition_name\":\"Regionalliga Ost\"},{\"competition_id\":\"763\",\"competition_name\":\"Regionalliga West\"},{\"competition_id\":\"47126\",\"competition_name\":\"Karntner Liga\"}]},{\"category_id\":\"2041\",\"category_name\":\"Azerbaijan\",\"competitions\":[{\"competition_id\":\"20465\",\"competition_name\":\"First Division\"},{\"competition_id\":\"895\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"2089\",\"category_name\":\"Bahrain\",\"competitions\":[{\"competition_id\":\"910\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"1906\",\"category_name\":\"Belarus\",\"competitions\":[{\"competition_id\":\"19805\",\"competition_name\":\"Vysshaya Liga\"}]},{\"category_id\":\"1932\",\"category_name\":\"Belgium\",\"competitions\":[{\"competition_id\":\"8295\",\"competition_name\":\"Pro League\"},{\"competition_id\":\"20051\",\"competition_name\":\"Super League, Women\"}]},{\"category_id\":\"2050\",\"category_name\":\"Bolivia\",\"competitions\":[{\"competition_id\":\"36922\",\"competition_name\":\"Division Profesional\"}]},{\"category_id\":\"1966\",\"category_name\":\"Bosnia & Herzegovina\",\"competitions\":[{\"competition_id\":\"20001\",\"competition_name\":\"Prva Liga, Rep of Srpska\"},{\"competition_id\":\"883\",\"competition_name\":\"Premijer Liga\"},{\"competition_id\":\"19968\",\"competition_name\":\"Prva Liga, Fed BiH\"}]},{\"category_id\":\"96\",\"category_name\":\"Brazil\",\"competitions\":[{\"competition_id\":\"907\",\"competition_name\":\"Brasileiro Serie A\"},{\"competition_id\":\"908\",\"competition_name\":\"Brasileiro Serie B\"},{\"competition_id\":\"41099\",\"competition_name\":\"Cearense, Serie B\"},{\"competition_id\":\"31905\",\"competition_name\":\"Brasileiro Serie A2, Women\"},{\"competition_id\":\"49752\",\"competition_name\":\"U20 Brasileiro Serie A\"},{\"competition_id\":\"49969\",\"competition_name\":\"U20 Brasileiro Serie B\"},{\"competition_id\":\"12362\",\"competition_name\":\"Copa Verde\"},{\"competition_id\":\"30475\",\"competition_name\":\"Paulista, Women\"},{\"competition_id\":\"50127\",\"competition_name\":\"Brasileiro A1, Women\"},{\"competition_id\":\"24036\",\"competition_name\":\"Copa do Nordeste\"},{\"competition_id\":\"39810\",\"competition_name\":\"Copa FGF\"}]},{\"category_id\":\"1991\",\"category_name\":\"Bulgaria\",\"competitions\":[{\"competition_id\":\"41660\",\"competition_name\":\"Parva Liga\"},{\"competition_id\":\"47174\",\"competition_name\":\"Vtora Liga\"}]},{\"category_id\":\"1953\",\"category_name\":\"Chile\",\"competitions\":[{\"competition_id\":\"16728\",\"competition_name\":\"Primera Division\"},{\"competition_id\":\"16863\",\"competition_name\":\"Primera B\"}]},{\"category_id\":\"1910\",\"category_name\":\"China\",\"competitions\":[{\"competition_id\":\"724\",\"competition_name\":\"Chinese Super League\"},{\"competition_id\":\"25553\",\"competition_name\":\"China League 2\"}]},{\"category_id\":\"101\",\"category_name\":\"Colombia\",\"competitions\":[{\"competition_id\":\"52779\",\"competition_name\":\"Liga DIMAYOR\"},{\"competition_id\":\"53705\",\"competition_name\":\"Copa DIMAYOR\"},{\"competition_id\":\"52897\",\"competition_name\":\"Torneo DIMAYOR\"}]},{\"category_id\":\"1972\",\"category_name\":\"Croatia\",\"competitions\":[{\"competition_id\":\"41979\",\"competition_name\":\"HNL\"},{\"competition_id\":\"41908\",\"competition_name\":\"Prva NL\"}]},{\"category_id\":\"1998\",\"category_name\":\"Cyprus\",\"competitions\":[{\"competition_id\":\"8711\",\"competition_name\":\"1st Division\"}]},{\"category_id\":\"117478\",\"category_name\":\"Czechia\",\"competitions\":[{\"competition_id\":\"46243\",\"competition_name\":\"1. Liga\"},{\"competition_id\":\"46245\",\"competition_name\":\"FNL\"},{\"competition_id\":\"46242\",\"competition_name\":\"CFL\"},{\"competition_id\":\"46251\",\"competition_name\":\"MSFL\"}]},{\"category_id\":\"1950\",\"category_name\":\"Denmark\",\"competitions\":[{\"competition_id\":\"41845\",\"competition_name\":\"1. Division\"},{\"competition_id\":\"19489\",\"competition_name\":\"2nd Division\"},{\"competition_id\":\"41443\",\"competition_name\":\"Superliga\"},{\"competition_id\":\"38575\",\"competition_name\":\"3rd Division\"}]},{\"category_id\":\"2054\",\"category_name\":\"Denmark Amateur\",\"competitions\":[{\"competition_id\":\"41876\",\"competition_name\":\"Danmarksserien\"}]},{\"category_id\":\"1949\",\"category_name\":\"Ecuador\",\"competitions\":[{\"competition_id\":\"30482\",\"competition_name\":\"LigaPro Primera A\"},{\"competition_id\":\"27431\",\"competition_name\":\"Copa Ecuador\"}]},{\"category_id\":\"95\",\"category_name\":\"Egypt\",\"competitions\":[{\"competition_id\":\"725\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"1977\",\"category_name\":\"England Amateur\",\"competitions\":[{\"competition_id\":\"47758\",\"competition_name\":\"Super League Women\"}]},{\"category_id\":\"1965\",\"category_name\":\"Faroe Islands\",\"competitions\":[{\"competition_id\":\"711\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"503\",\"category_name\":\"Finland\",\"competitions\":[{\"competition_id\":\"236\",\"competition_name\":\"Veikkausliiga\"},{\"competition_id\":\"45936\",\"competition_name\":\"Ykkosliiga\"},{\"competition_id\":\"53521\",\"competition_name\":\"Kakkonen\"},{\"competition_id\":\"48436\",\"competition_name\":\"Kolmonen\"},{\"competition_id\":\"32612\",\"competition_name\":\"Kansallinen Liiga, Women\"}]},{\"category_id\":\"1983\",\"category_name\":\"Georgia\",\"competitions\":[{\"competition_id\":\"18347\",\"competition_name\":\"Erovnuli Liga\"}]},{\"category_id\":\"2024\",\"category_name\":\"Greece\",\"competitions\":[{\"competition_id\":\"8522\",\"competition_name\":\"Super League\"}]},{\"category_id\":\"1996\",\"category_name\":\"Guatemala\",\"competitions\":[{\"competition_id\":\"764\",\"competition_name\":\"Liga Nacional, Clausura\"}]},{\"category_id\":\"2032\",\"category_name\":\"Honduras\",\"competitions\":[{\"competition_id\":\"23956\",\"competition_name\":\"Liga Nacional. Clausura\"}]},{\"category_id\":\"1934\",\"category_name\":\"Hungary\",\"competitions\":[{\"competition_id\":\"47035\",\"competition_name\":\"NB III\"}]},{\"category_id\":\"1908\",\"category_name\":\"Iceland\",\"competitions\":[{\"competition_id\":\"43574\",\"competition_name\":\"Besta deild\"},{\"competition_id\":\"42071\",\"competition_name\":\"1. deild\"},{\"competition_id\":\"26359\",\"competition_name\":\"2. deild\"},{\"competition_id\":\"50289\",\"competition_name\":\"4. deild\"}]},{\"category_id\":\"2065\",\"category_name\":\"India\",\"competitions\":[{\"competition_id\":\"8854\",\"competition_name\":\"Indian Super League\"}]},{\"category_id\":\"98\",\"category_name\":\"International Clubs\",\"competitions\":[{\"competition_id\":\"49230\",\"competition_name\":\"CONMEBOL Libertadores\"},{\"competition_id\":\"49620\",\"competition_name\":\"CONMEBOL Sudamericana\"},{\"competition_id\":\"20393\",\"competition_name\":\"UEFA Champions League Women\"},{\"competition_id\":\"19508\",\"competition_name\":\"UEFA Champions League\"},{\"competition_id\":\"46357\",\"competition_name\":\"UEFA Conference League\"},{\"competition_id\":\"45849\",\"competition_name\":\"CONCACAF Champions Cup\"}]},{\"category_id\":\"2016\",\"category_name\":\"Iran\",\"competitions\":[{\"competition_id\":\"19485\",\"competition_name\":\"Azadegan League\"}]},{\"category_id\":\"2138\",\"category_name\":\"Ireland\",\"competitions\":[{\"competition_id\":\"14259\",\"competition_name\":\"First Division\"},{\"competition_id\":\"14256\",\"competition_name\":\"Premier Division\"}]},{\"category_id\":\"2017\",\"category_name\":\"Israel\",\"competitions\":[{\"competition_id\":\"8520\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"51308\",\"competition_name\":\"U19 Premier League\"},{\"competition_id\":\"8532\",\"competition_name\":\"National League\"}]},{\"category_id\":\"1833\",\"category_name\":\"Japan\",\"competitions\":[{\"competition_id\":\"52916\",\"competition_name\":\"J1 League\"}]},{\"category_id\":\"443\",\"category_name\":\"Kazakhstan\",\"competitions\":[{\"competition_id\":\"559\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"34303\",\"competition_name\":\"Pervaya Liga\"}]},{\"category_id\":\"2051\",\"category_name\":\"KOSOVO\",\"competitions\":[{\"competition_id\":\"24836\",\"competition_name\":\"Kosovo FA Cup\"}]},{\"category_id\":\"2133\",\"category_name\":\"Kuwait\",\"competitions\":[{\"competition_id\":\"35852\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"1947\",\"category_name\":\"Latvia\",\"competitions\":[{\"competition_id\":\"856\",\"competition_name\":\"Virsliga\"}]},{\"category_id\":\"1852\",\"category_name\":\"Lithuania\",\"competitions\":[{\"competition_id\":\"879\",\"competition_name\":\"1 Lyga\"},{\"competition_id\":\"20101\",\"competition_name\":\"A Lyga\"},{\"competition_id\":\"37149\",\"competition_name\":\"II Lyga\"}]},{\"category_id\":\"2044\",\"category_name\":\"Luxembourg\",\"competitions\":[{\"competition_id\":\"952\",\"competition_name\":\"Division Nationale\"}]},{\"category_id\":\"2195\",\"category_name\":\"Mali\",\"competitions\":[{\"competition_id\":\"45193\",\"competition_name\":\"Ligue 1\"}]},{\"category_id\":\"1975\",\"category_name\":\"Mexico\",\"competitions\":[{\"competition_id\":\"43044\",\"competition_name\":\"Liga MX, Clausura\"},{\"competition_id\":\"50537\",\"competition_name\":\"Campeon de Campeones Liga Expansion MX\"}]},{\"category_id\":\"2147\",\"category_name\":\"New Zealand\",\"competitions\":[{\"competition_id\":\"40792\",\"competition_name\":\"National League\"}]},{\"category_id\":\"1247\",\"category_name\":\"Norway\",\"competitions\":[{\"competition_id\":\"260\",\"competition_name\":\"Eliteserien\"},{\"competition_id\":\"20172\",\"competition_name\":\"NM Cup Women\"},{\"competition_id\":\"52949\",\"competition_name\":\"3. Division, Group 2\"},{\"competition_id\":\"414\",\"competition_name\":\"1st Division\"},{\"competition_id\":\"51176\",\"competition_name\":\"U19 Nasjonal\"}]},{\"category_id\":\"2009\",\"category_name\":\"Panama\",\"competitions\":[{\"competition_id\":\"45976\",\"competition_name\":\"Liga Prom\"}]},{\"category_id\":\"1688\",\"category_name\":\"Paraguay\",\"competitions\":[{\"competition_id\":\"53447\",\"competition_name\":\"Division Intermedia\"},{\"competition_id\":\"52849\",\"competition_name\":\"Division de Honor\"}]},{\"category_id\":\"444\",\"category_name\":\"Peru\",\"competitions\":[{\"competition_id\":\"45770\",\"competition_name\":\"Liga 1\"},{\"competition_id\":\"41069\",\"competition_name\":\"Liga Femenina\"}]},{\"category_id\":\"1847\",\"category_name\":\"Poland\",\"competitions\":[{\"competition_id\":\"7707\",\"competition_name\":\"Ekstraklasa\"},{\"competition_id\":\"50769\",\"competition_name\":\"1. Liga\"},{\"competition_id\":\"258\",\"competition_name\":\"II Liga\"},{\"competition_id\":\"18557\",\"competition_name\":\"III Liga, Group 1\"},{\"competition_id\":\"18558\",\"competition_name\":\"III Liga, Group 2\"},{\"competition_id\":\"18559\",\"competition_name\":\"III Liga, Group 3\"},{\"competition_id\":\"18562\",\"competition_name\":\"III Liga, Group 4\"}]},{\"category_id\":\"2013\",\"category_name\":\"Portugal\",\"competitions\":[{\"competition_id\":\"1234\",\"competition_name\":\"Taca de Portugal\"}]},{\"category_id\":\"2225\",\"category_name\":\"Republic of Korea\",\"competitions\":[{\"competition_id\":\"25321\",\"competition_name\":\"K-League 2\"}]},{\"category_id\":\"506\",\"category_name\":\"Romania\",\"competitions\":[{\"competition_id\":\"43168\",\"competition_name\":\"Superliga\"},{\"competition_id\":\"8654\",\"competition_name\":\"Liga 2\"}]},{\"category_id\":\"1943\",\"category_name\":\"Russia\",\"competitions\":[{\"competition_id\":\"678\",\"competition_name\":\"Russian Cup\"},{\"competition_id\":\"44508\",\"competition_name\":\"2. Liga, Division B, Group 2\"},{\"competition_id\":\"49803\",\"competition_name\":\"MFL, Division A\"},{\"competition_id\":\"249\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"44470\",\"competition_name\":\"2. Liga, Division A\"}]},{\"category_id\":\"2049\",\"category_name\":\"Saudi Arabia\",\"competitions\":[{\"competition_id\":\"43366\",\"competition_name\":\"Saudi Pro League\"}]},{\"category_id\":\"1971\",\"category_name\":\"Serbia\",\"competitions\":[{\"competition_id\":\"8407\",\"competition_name\":\"Superliga\"},{\"competition_id\":\"401\",\"competition_name\":\"Prva Liga\"},{\"competition_id\":\"51248\",\"competition_name\":\"U19 League\"}]},{\"category_id\":\"2717\",\"category_name\":\"Simulated Reality League\",\"competitions\":[{\"competition_id\":\"32732\",\"competition_name\":\"Copa Libertadores SRL\"}]},{\"category_id\":\"1963\",\"category_name\":\"Slovenia\",\"competitions\":[{\"competition_id\":\"857\",\"competition_name\":\"PrvaLiga\"},{\"competition_id\":\"39038\",\"competition_name\":\"2. Liga\"}]},{\"category_id\":\"2048\",\"category_name\":\"South Africa\",\"competitions\":[{\"competition_id\":\"43154\",\"competition_name\":\"Premiership\"}]},{\"category_id\":\"1848\",\"category_name\":\"Sweden\",\"competitions\":[{\"competition_id\":\"223\",\"competition_name\":\"Allsvenskan\"},{\"competition_id\":\"171\",\"competition_name\":\"Superettan\"},{\"competition_id\":\"261\",\"competition_name\":\"Damallsvenskan\"},{\"competition_id\":\"53421\",\"competition_name\":\"Ettan\"},{\"competition_id\":\"436\",\"competition_name\":\"Division 2, Norra Gotaland\"},{\"competition_id\":\"53370\",\"competition_name\":\"Division 2\"},{\"competition_id\":\"38224\",\"competition_name\":\"Ettan, Sodra\"}]},{\"category_id\":\"446\",\"category_name\":\"Sweden Amateur\",\"competitions\":[{\"competition_id\":\"43598\",\"competition_name\":\"Elitettan, Women\"}]},{\"category_id\":\"1926\",\"category_name\":\"Switzerland\",\"competitions\":[{\"competition_id\":\"232\",\"competition_name\":\"Super League\"},{\"competition_id\":\"997\",\"competition_name\":\"Promotion League\"}]},{\"category_id\":\"2010\",\"category_name\":\"Tunisia\",\"competitions\":[{\"competition_id\":\"8471\",\"competition_name\":\"Tunisian Cup\"}]},{\"category_id\":\"117238\",\"category_name\":\"Turkiye\",\"competitions\":[{\"competition_id\":\"42681\",\"competition_name\":\"1. Lig\"},{\"competition_id\":\"42669\",\"competition_name\":\"Turkiye Kupasi\"}]},{\"category_id\":\"1964\",\"category_name\":\"Ukraine\",\"competitions\":[{\"competition_id\":\"851\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"20697\",\"competition_name\":\"U19\"},{\"competition_id\":\"988\",\"competition_name\":\"Persha Liga\"}]},{\"category_id\":\"2059\",\"category_name\":\"Uruguay\",\"competitions\":[{\"competition_id\":\"19480\",\"competition_name\":\"Primera Division\"},{\"competition_id\":\"20111\",\"competition_name\":\"Segunda Division\"}]},{\"category_id\":\"97\",\"category_name\":\"USA\",\"competitions\":[{\"competition_id\":\"44909\",\"competition_name\":\"MLS\"},{\"competition_id\":\"25538\",\"competition_name\":\"National Womens Soccer League\"},{\"competition_id\":\"25331\",\"competition_name\":\"USL Championship\"},{\"competition_id\":\"26364\",\"competition_name\":\"USL League Two\"},{\"competition_id\":\"26125\",\"competition_name\":\"National Premier Soccer League\"},{\"competition_id\":\"41544\",\"competition_name\":\"USL W League\"}]}],\"top_leagues\":{\"9\":{\"competition_id\":\"19508\",\"competition_name\":\"UEFA Champions League\",\"sport_id\":\"14\",\"category_id\":\"98\",\"category_name\":\"International Clubs\",\"count\":\"1\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"soccer\"},\"query_params\":null,\"image\":null,\"label\":\"Soccer\"},{\"timestamp\":1779350749379,\"hard_coded\":true,\"mobile_only\":false,\"sport_id\":\"-1001\",\"sport_name\":\"ligiBigi\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/ligi-bigi\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":\"2023-12-31 14:57\",\"visible\":true,\"image\":null,\"label\":\"Ligi Bigi\",\"selected\":[\"ligi-bigi\"]},{\"timestamp\":1779350749389,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-1099\",\"sport_name\":\"virtualHub\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/virtuals\",\"params\":null,\"query_params\":null,\"new_badge\":true,\"expiry\":\"2024-02-31 14:57\",\"visible\":true,\"image\":null,\"label\":\"Virtuals\",\"selected\":[\"virtual\",\"virtuals\",\"virtuals-markets\",\"virtuals-ongoing\",\"virtuals-results\",\"virtuals-table\",\"virtuals-matches\"]},{\"timestamp\":1779350749390,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-1097\",\"sport_name\":\"aviator\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/aviator\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":\"2022-12-23 14:57\",\"visible\":true,\"image\":null,\"label\":\"Aviator\",\"selected\":[\"aviator\"]},{\"timestamp\":1779350749391,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-993\",\"sport_name\":\"crashGames\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/crash-games\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":\"2023-12-31 14:57\",\"visible\":true,\"image\":null,\"label\":\"Crash Games\",\"selected\":[\"crash-games\"]},{\"timestamp\":1779350749391,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-998\",\"sport_name\":\"casino\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/casino\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":\"2023-12-31 14:57\",\"visible\":true,\"image\":null,\"label\":\"Casino\",\"selected\":[\"casino\",\"casino-category\",\"casino-game\"]},{\"timestamp\":1779350749392,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-997\",\"sport_name\":\"jackpots\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/jackpots\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":null,\"visible\":true,\"image\":null,\"label\":\"Jackpots\",\"selected\":[\"jackpots\",\"must-be-won\",\"grand-jackpot\",\"midweek-jackpot\",\"jackpot-results\",\"jackpot-result\"]},{\"timestamp\":1779350749392,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-995\",\"sport_name\":\"shikisha\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/shikisha-bet\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":null,\"visible\":true,\"image\":null,\"label\":\"Shikisha Bet\",\"selected\":[\"shikisha-bet\"]},{\"timestamp\":1779350749392,\"hard_coded\":true,\"mobile_only\":false,\"sport_id\":\"-994\",\"sport_name\":\"goldenRace\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/virtual/betika-super-league\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":null,\"visible\":false,\"image\":null,\"label\":\"BSL\",\"selected\":[\"betika-super-league\"]},{\"timestamp\":1779350749392,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-992\",\"sport_name\":\"splitPot\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/betika-fasta\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":null,\"visible\":true,\"image\":null,\"label\":\"Betika Fasta\",\"selected\":[\"betika-fasta\",\"betika-fasta-game\"]},{\"timestamp\":1779350749392,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-990\",\"sport_name\":\"goldenRace\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/virtual/betika-super-league\",\"params\":null,\"query_params\":{\"ref\":\"GROSpin2Win\"},\"new_badge\":false,\"expiry\":\"2022-10-20 23:59\",\"visible\":false,\"image\":\"https://cdn.betika.com/sport-icons/betika-super-league-icons/spin_to_win_chap_chap.svg\",\"label\":\"Spin2Win\",\"selected\":[\"betika-super-league\"]},{\"timestamp\":1779350749393,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-991\",\"sport_name\":\"offersNRewards\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/promotions\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":\"2022-12-23 14:57\",\"visible\":true,\"image\":null,\"label\":\"Promotions\",\"selected\":[\"promotions\"]},{\"timestamp\":1779350749393,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-1995\",\"sport_name\":\"leaderboard\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/leaderboard\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":null,\"visible\":false,\"image\":null,\"label\":\"Leaderboard\",\"selected\":[\"Leaderboard\"]}]"
+        },
+        {
+          "name": "ZD-store",
+          "value": "{\"activeEmbed\":\"nilEmbed\",\"widgetShown\":false,\"is_chatting\":false}"
+        },
+        {
+          "name": "ZD-suid",
+          "value": "{\"id\":\"f9ca6fb08d4f4e87930910a7df9e4b29\",\"expiry\":1779351651977,\"tabs\":{\"count\":1,\"expiry\":1779350795958}}"
+        },
+        {
+          "name": "token",
+          "value": "\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9iZXRpa2EuY29tIiwiaWF0IjoxNzc5MzUwMzY0LCJuYmYiOjE3NzY3NTgzNjQsImV4cCI6MTc4MTk0MjM2NCwidXNlciI6eyJpZCI6IjM3NjY5Nzc3IiwibW9iaWxlIjoiMjU0NzU4MjYyNDI3IiwiYmFsYW5jZSI6IjEyLjIwIiwiYm9udXMiOiI1LjAwIiwicG9pbnRzIjpudWxsfX0.XRHn5sJulYXAN6IFEkoXueKD82SrB9tsEPImkpZp3Hc\""
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "nFrJgA3eWXKJhwPIUsHUpHjuhQZTlwrIHbnh6XTTQN9wQkFXIytlFwrdyFV9aAxVxgvyrcXF1Zo"
+        },
+        {
+          "name": "betika-mobile-settings",
+          "value": "{\"notifications\":{\"status\":null},\"autorefresh\":{\"status\":true},\"themeV2\":{\"dark\":false},\"hideLostBets\":false,\"seeRecommendations\":false,\"toast\":{\"dropMenu\":false}}"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1779350848240"
+        },
+        {
+          "name": "utm_info",
+          "value": "{}"
+        },
+        {
+          "name": "ig-joined",
+          "value": "1779350340878"
+        },
+        {
+          "name": "ZD-buid",
+          "value": "87d42fbf8a0c4f6b94fb0f66b31b5caf"
+        },
+        {
+          "name": "betika-platform-settings",
+          "value": "null"
+        },
+        {
+          "name": "cid",
+          "value": "454532308.1779350334"
+        },
+        {
+          "name": "nav-third-row-ke-v22",
+          "value": "[{\"timestamp\":1779350749403,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-1999\",\"sport_name\":\"appLink\",\"categories\":[],\"top_leagues\":[],\"external_link\":true,\"route\":\"http://app.betika.com/?utm_source=Betika_Mobile_Web&utm_medium=Banner&utm_campaign=Download_App&utm_content=Click_From_Navbar\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":null,\"visible\":true,\"image\":null,\"label\":\"Download App\",\"selected\":[]},{\"timestamp\":1779350749403,\"hard_coded\":true,\"mobile_only\":true,\"sport_id\":\"-1998\",\"sport_name\":\"livescore\",\"categories\":[],\"top_leagues\":[],\"external_link\":false,\"route\":\"/livescore\",\"params\":null,\"query_params\":null,\"new_badge\":false,\"expiry\":null,\"visible\":true,\"image\":null,\"label\":\"Livescore\",\"selected\":[\"livescore\"]}]"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "user_agent",
+          "value": "{\"ua\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\",\"browser\":{\"name\":\"Chrome\",\"version\":\"147.0.0.0\",\"major\":\"147\"},\"engine\":{\"name\":\"WebKit\",\"version\":\"537.36\"},\"os\":{\"name\":\"Linux\",\"version\":\"x86_64\"},\"device\":{},\"cpu\":{\"architecture\":\"amd64\"}}"
+        },
+        {
+          "name": "nav-other-sports-ke-v22",
+          "value": "[{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"45\",\"sport_name\":\"Table Tennis\",\"categories\":[{\"category_id\":\"2333\",\"category_name\":\"International\",\"competitions\":[{\"competition_id\":\"40741\",\"competition_name\":\"TT Elite Series\"},{\"competition_id\":\"31975\",\"competition_name\":\"TT Cup\"},{\"competition_id\":\"19593\",\"competition_name\":\"Challenger Series \"}]},{\"category_id\":\"3295\",\"category_name\":\"Czech Republic\",\"competitions\":[{\"competition_id\":\"40616\",\"competition_name\":\"Czech Liga Pro\"}]}],\"top_leagues\":[],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"table-tennis\"},\"query_params\":null,\"image\":null,\"label\":\"Table Tennis\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"39\",\"sport_name\":\"Boxing\",\"categories\":[{\"category_id\":\"2215\",\"category_name\":\"International\",\"competitions\":[{\"competition_id\":\"25491\",\"competition_name\":\"International Matchups\"}]}],\"top_leagues\":{\"3\":{\"competition_id\":\"25491\",\"competition_name\":\"International Matchups\",\"sport_id\":\"39\",\"category_id\":\"2215\",\"category_name\":\"International\",\"count\":\"19\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"boxing\"},\"query_params\":null,\"image\":null,\"label\":\"Boxing\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"43\",\"sport_name\":\"Aussie Rules\",\"categories\":[{\"category_id\":\"2632\",\"category_name\":\"Australia\",\"competitions\":[{\"competition_id\":\"694\",\"competition_name\":\"AFL\"}]}],\"top_leagues\":[{\"competition_id\":\"694\",\"competition_name\":\"AFL\",\"sport_id\":\"43\",\"category_id\":\"2632\",\"category_name\":\"Australia\",\"count\":\"9\"}],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"aussie-rules\"},\"query_params\":null,\"image\":null,\"label\":\"Aussie Rules\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"37\",\"sport_name\":\"Cricket\",\"categories\":[{\"category_id\":\"2085\",\"category_name\":\"England\",\"competitions\":[{\"competition_id\":\"46237\",\"competition_name\":\"T20 Blast\"}]},{\"category_id\":\"2090\",\"category_name\":\"International\",\"competitions\":[{\"competition_id\":\"46288\",\"competition_name\":\"T20 World Cup Sub Regional Europe Qualifier A\"},{\"competition_id\":\"31088\",\"competition_name\":\"ICC Cricket World Cup League Two\"}]},{\"category_id\":\"2759\",\"category_name\":\"Czech Republic\",\"competitions\":[{\"competition_id\":\"50717\",\"competition_name\":\"T10 ECS Czechia, Challenger\"}]},{\"category_id\":\"2202\",\"category_name\":\"India\",\"competitions\":[{\"competition_id\":\"25162\",\"competition_name\":\"Indian Premier League\"}]},{\"category_id\":\"117290\",\"category_name\":\"International Clubs\",\"competitions\":[{\"competition_id\":\"53738\",\"competition_name\":\"T20 East African Safari Challenge\"}]},{\"category_id\":\"3268\",\"category_name\":\"Nepal\",\"competitions\":[{\"competition_id\":\"53756\",\"competition_name\":\"T20 Madhesh Cricket League\"}]},{\"category_id\":\"117850\",\"category_name\":\"Nigeria\",\"competitions\":[{\"competition_id\":\"53770\",\"competition_name\":\"T20 Super League\"}]},{\"category_id\":\"2713\",\"category_name\":\"Simulated Reality League\",\"competitions\":[{\"competition_id\":\"34321\",\"competition_name\":\"Big Bash League SRL\"},{\"competition_id\":\"41214\",\"competition_name\":\"T20 International SRL\"},{\"competition_id\":\"41206\",\"competition_name\":\"Pakistan Super League SRL\"},{\"competition_id\":\"43287\",\"competition_name\":\"SA T20 League SRL\"},{\"competition_id\":\"50250\",\"competition_name\":\"Super Smash SRL\"},{\"competition_id\":\"41263\",\"competition_name\":\"Caribbean Premier League SRL\"}]}],\"top_leagues\":{\"9\":{\"competition_id\":\"53770\",\"competition_name\":\"T20 Super League\",\"sport_id\":\"37\",\"category_id\":\"117850\",\"category_name\":\"Nigeria\",\"count\":\"2\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"cricket\"},\"query_params\":null,\"image\":null,\"label\":\"Cricket\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"31\",\"sport_name\":\"Baseball\",\"categories\":[{\"category_id\":\"2720\",\"category_name\":\"Chinese Taipei\",\"competitions\":[{\"competition_id\":\"32339\",\"competition_name\":\"CPBL\"}]},{\"category_id\":\"2077\",\"category_name\":\"Japan\",\"competitions\":[{\"competition_id\":\"43194\",\"competition_name\":\"NPB\"}]},{\"category_id\":\"2226\",\"category_name\":\"Republic of Korea\",\"competitions\":[{\"competition_id\":\"17469\",\"competition_name\":\"KBO League\"}]},{\"category_id\":\"2070\",\"category_name\":\"USA\",\"competitions\":[{\"competition_id\":\"511\",\"competition_name\":\"MLB\"}]}],\"top_leagues\":{\"1\":{\"competition_id\":\"511\",\"competition_name\":\"MLB\",\"sport_id\":\"31\",\"category_id\":\"2070\",\"category_name\":\"USA\",\"count\":\"7\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"baseball\"},\"query_params\":null,\"image\":null,\"label\":\"Baseball\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"30\",\"sport_name\":\"Basketball\",\"categories\":[{\"category_id\":\"2095\",\"category_name\":\"Spain\",\"competitions\":[{\"competition_id\":\"47179\",\"competition_name\":\"Primera FEB\"}]},{\"category_id\":\"2129\",\"category_name\":\"Italy\",\"competitions\":[{\"competition_id\":\"546\",\"competition_name\":\"Serie A\"},{\"competition_id\":\"19529\",\"competition_name\":\"Serie A2\"},{\"competition_id\":\"30005\",\"competition_name\":\"Serie B\"}]},{\"category_id\":\"2101\",\"category_name\":\"Germany\",\"competitions\":[{\"competition_id\":\"760\",\"competition_name\":\"BBL\"}]},{\"category_id\":\"2108\",\"category_name\":\"France\",\"competitions\":[{\"competition_id\":\"47801\",\"competition_name\":\"Nationale 1\"},{\"competition_id\":\"51061\",\"competition_name\":\"LNB Elite 2\"},{\"competition_id\":\"45768\",\"competition_name\":\"LNB Elite\"}]},{\"category_id\":\"2420\",\"category_name\":\"Netherlands\",\"competitions\":[{\"competition_id\":\"40142\",\"competition_name\":\"BNXT Dutch League\"}]},{\"category_id\":\"2112\",\"category_name\":\"International\",\"competitions\":[{\"competition_id\":\"20254\",\"competition_name\":\"United League\"},{\"competition_id\":\"9015\",\"competition_name\":\"Euroleague\"},{\"competition_id\":\"11267\",\"competition_name\":\"Liga ABA\"},{\"competition_id\":\"50349\",\"competition_name\":\"Champions League Asia - East\"}]},{\"category_id\":\"2183\",\"category_name\":\"Argentina\",\"competitions\":[{\"competition_id\":\"51934\",\"competition_name\":\"Liga Femenina, Women\"}]},{\"category_id\":\"2279\",\"category_name\":\"Belgium\",\"competitions\":[{\"competition_id\":\"39536\",\"competition_name\":\"BNXT Belgian League\"}]},{\"category_id\":\"2182\",\"category_name\":\"Brazil\",\"competitions\":[{\"competition_id\":\"43407\",\"competition_name\":\"LBF, Women\"},{\"competition_id\":\"11899\",\"competition_name\":\"NBB\"}]},{\"category_id\":\"2459\",\"category_name\":\"Chile\",\"competitions\":[{\"competition_id\":\"45774\",\"competition_name\":\"LNB\"}]},{\"category_id\":\"2180\",\"category_name\":\"China\",\"competitions\":[{\"competition_id\":\"11814\",\"competition_name\":\"CBA\"}]},{\"category_id\":\"2673\",\"category_name\":\"Chinese Taipei\",\"competitions\":[{\"competition_id\":\"40786\",\"competition_name\":\"P League\"}]},{\"category_id\":\"2235\",\"category_name\":\"Croatia\",\"competitions\":[{\"competition_id\":\"30188\",\"competition_name\":\"Premijer liga\"}]},{\"category_id\":\"2458\",\"category_name\":\"Cyprus\",\"competitions\":[{\"competition_id\":\"20830\",\"competition_name\":\"Division A\"}]},{\"category_id\":\"2319\",\"category_name\":\"Czech Republic\",\"competitions\":[{\"competition_id\":\"19998\",\"competition_name\":\"NBL\"}]},{\"category_id\":\"2395\",\"category_name\":\"Denmark\",\"competitions\":[{\"competition_id\":\"19946\",\"competition_name\":\"Basketligaen\"}]},{\"category_id\":\"3246\",\"category_name\":\"Dominican Republic\",\"competitions\":[{\"competition_id\":\"38578\",\"competition_name\":\"LNB\"}]},{\"category_id\":\"117605\",\"category_name\":\"Georgia\",\"competitions\":[{\"competition_id\":\"48278\",\"competition_name\":\"Superleague\"}]},{\"category_id\":\"2357\",\"category_name\":\"Hungary\",\"competitions\":[{\"competition_id\":\"42422\",\"competition_name\":\"NB I. A\"}]},{\"category_id\":\"2374\",\"category_name\":\"Israel\",\"competitions\":[{\"competition_id\":\"21018\",\"competition_name\":\"National League\"}]},{\"category_id\":\"117517\",\"category_name\":\"Jordan\",\"competitions\":[{\"competition_id\":\"49155\",\"competition_name\":\"Premier League\"}]},{\"category_id\":\"3115\",\"category_name\":\"Lebanon\",\"competitions\":[{\"competition_id\":\"37153\",\"competition_name\":\"First Division\"}]},{\"category_id\":\"2247\",\"category_name\":\"Lithuania\",\"competitions\":[{\"competition_id\":\"562\",\"competition_name\":\"LKL\"}]},{\"category_id\":\"2625\",\"category_name\":\"New Zealand\",\"competitions\":[{\"competition_id\":\"25991\",\"competition_name\":\"NBL\"}]},{\"category_id\":\"117511\",\"category_name\":\"Paraguay\",\"competitions\":[{\"competition_id\":\"50233\",\"competition_name\":\"LNB\"}]},{\"category_id\":\"2276\",\"category_name\":\"Poland\",\"competitions\":[{\"competition_id\":\"606\",\"competition_name\":\"PLK\"}]},{\"category_id\":\"2428\",\"category_name\":\"Portugal\",\"competitions\":[{\"competition_id\":\"20164\",\"competition_name\":\"LPB\"}]},{\"category_id\":\"2161\",\"category_name\":\"Puerto Rico\",\"competitions\":[{\"competition_id\":\"39408\",\"competition_name\":\"BSN\"}]},{\"category_id\":\"2422\",\"category_name\":\"Romania\",\"competitions\":[{\"competition_id\":\"20083\",\"competition_name\":\"Liga Nationala\"}]},{\"category_id\":\"2344\",\"category_name\":\"Russia\",\"competitions\":[{\"competition_id\":\"51653\",\"competition_name\":\"Super League\"}]},{\"category_id\":\"2429\",\"category_name\":\"Slovakia\",\"competitions\":[{\"competition_id\":\"20590\",\"competition_name\":\"Extraliga\"}]},{\"category_id\":\"2324\",\"category_name\":\"Slovenia\",\"competitions\":[{\"competition_id\":\"20168\",\"competition_name\":\"1. A SKL\"}]},{\"category_id\":\"2408\",\"category_name\":\"Sweden\",\"competitions\":[{\"competition_id\":\"39252\",\"competition_name\":\"Superettan\"}]},{\"category_id\":\"117239\",\"category_name\":\"Turkiye\",\"competitions\":[{\"competition_id\":\"45760\",\"competition_name\":\"TBL\"}]},{\"category_id\":\"2430\",\"category_name\":\"Uruguay\",\"competitions\":[{\"competition_id\":\"50223\",\"competition_name\":\"LFB, Women\"},{\"competition_id\":\"20173\",\"competition_name\":\"LUB\"}]},{\"category_id\":\"2087\",\"category_name\":\"USA\",\"competitions\":[{\"competition_id\":\"799\",\"competition_name\":\"WNBA\"},{\"competition_id\":\"9207\",\"competition_name\":\"NBA\"}]},{\"category_id\":\"3116\",\"category_name\":\"Venezuela\",\"competitions\":[{\"competition_id\":\"37169\",\"competition_name\":\"SuperLiga\"}]},{\"category_id\":\"3237\",\"category_name\":\"Vietnam\",\"competitions\":[{\"competition_id\":\"38334\",\"competition_name\":\"VBA\"}]}],\"top_leagues\":{\"2\":{\"competition_id\":\"9207\",\"competition_name\":\"NBA\",\"sport_id\":\"30\",\"category_id\":\"2087\",\"category_name\":\"USA\",\"count\":\"2\"},\"5\":{\"competition_id\":\"9015\",\"competition_name\":\"Euroleague\",\"sport_id\":\"30\",\"category_id\":\"2112\",\"category_name\":\"International\",\"count\":\"2\"},\"9\":{\"competition_id\":\"760\",\"competition_name\":\"BBL\",\"sport_id\":\"30\",\"category_id\":\"2101\",\"category_name\":\"Germany\",\"count\":\"4\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"basketball\"},\"query_params\":null,\"image\":null,\"label\":\"Basketball\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"29\",\"sport_name\":\"Ice Hockey\",\"categories\":[{\"category_id\":\"2103\",\"category_name\":\"International\",\"competitions\":[{\"competition_id\":\"24545\",\"competition_name\":\"World Championship\"}]},{\"category_id\":\"2075\",\"category_name\":\"Russia\",\"competitions\":[{\"competition_id\":\"8885\",\"competition_name\":\"KHL\"},{\"competition_id\":\"19633\",\"competition_name\":\"VHL\"}]},{\"category_id\":\"2084\",\"category_name\":\"USA\",\"competitions\":[{\"competition_id\":\"9016\",\"competition_name\":\"NHL\"},{\"competition_id\":\"20044\",\"competition_name\":\"AHL\"}]}],\"top_leagues\":{\"0\":{\"competition_id\":\"8885\",\"competition_name\":\"KHL\",\"sport_id\":\"29\",\"category_id\":\"2075\",\"category_name\":\"Russia\",\"count\":\"1\"},\"6\":{\"competition_id\":\"9016\",\"competition_name\":\"NHL\",\"sport_id\":\"29\",\"category_id\":\"2084\",\"category_name\":\"USA\",\"count\":\"3\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"ice-hockey\"},\"query_params\":null,\"image\":null,\"label\":\"Ice Hockey\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"41\",\"sport_name\":\"Rugby\",\"categories\":[{\"category_id\":\"2076\",\"category_name\":\"Rugby League\",\"competitions\":[{\"competition_id\":\"45534\",\"competition_name\":\"NRL Premiership\"},{\"competition_id\":\"1610\",\"competition_name\":\"State of Origin\"},{\"competition_id\":\"777\",\"competition_name\":\"Super League\"}]},{\"category_id\":\"2069\",\"category_name\":\"Rugby Union\",\"competitions\":[{\"competition_id\":\"20110\",\"competition_name\":\"European Challenge Cup\"},{\"competition_id\":\"39273\",\"competition_name\":\"United Rugby Championship\"},{\"competition_id\":\"848\",\"competition_name\":\"Pro D2\"},{\"competition_id\":\"705\",\"competition_name\":\"Super Rugby\"}]}],\"top_leagues\":[],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"rugby\"},\"query_params\":null,\"image\":null,\"label\":\"Rugby\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"134\",\"sport_name\":\"ESport League of Legends\",\"categories\":[{\"category_id\":\"117833\",\"category_name\":\"EWC\",\"competitions\":[{\"competition_id\":\"53385\",\"competition_name\":\"Esports World Cup\"}]},{\"category_id\":\"117817\",\"category_name\":\"Inygon\",\"competitions\":[{\"competition_id\":\"53085\",\"competition_name\":\"LPLOL\"}]},{\"category_id\":\"117783\",\"category_name\":\"KeSPA LoL\",\"competitions\":[{\"competition_id\":\"52831\",\"competition_name\":\"LCK CL\"}]},{\"category_id\":\"3358\",\"category_name\":\"Riot LoL\",\"competitions\":[{\"competition_id\":\"51582\",\"competition_name\":\"TCL\"},{\"competition_id\":\"53415\",\"competition_name\":\"LCK\"},{\"competition_id\":\"52959\",\"competition_name\":\"Prime League\"},{\"competition_id\":\"51629\",\"competition_name\":\"LJL\"},{\"competition_id\":\"51580\",\"competition_name\":\"LFL\"}]},{\"category_id\":\"117466\",\"category_name\":\"TJ Sports\",\"competitions\":[{\"competition_id\":\"45993\",\"competition_name\":\"LPL\"}]}],\"top_leagues\":{\"3\":{\"competition_id\":\"45993\",\"competition_name\":\"LPL\",\"sport_id\":\"134\",\"category_id\":\"117466\",\"category_name\":\"TJ Sports\",\"count\":\"1\"},\"5\":{\"competition_id\":\"51577\",\"competition_name\":\"Road of Legends\",\"sport_id\":\"134\",\"category_id\":\"0\",\"category_name\":\"GameWaves\",\"count\":\"2\"},\"6\":{\"competition_id\":\"51580\",\"competition_name\":\"LFL\",\"sport_id\":\"134\",\"category_id\":\"3358\",\"category_name\":\"Riot LoL\",\"count\":\"2\"},\"7\":{\"competition_id\":\"51582\",\"competition_name\":\"TCL\",\"sport_id\":\"134\",\"category_id\":\"3358\",\"category_name\":\"Riot LoL\",\"count\":\"1\"},\"9\":{\"competition_id\":\"51629\",\"competition_name\":\"LJL\",\"sport_id\":\"134\",\"category_id\":\"3358\",\"category_name\":\"Riot LoL\",\"count\":\"4\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"esport-league-of-legends\"},\"query_params\":null,\"image\":null,\"label\":\"ESport League of Legends\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"28\",\"sport_name\":\"Tennis\",\"categories\":[{\"category_id\":\"2066\",\"category_name\":\"ATP\",\"competitions\":[{\"competition_id\":\"26623\",\"competition_name\":\"ATP Geneva, Switzerland Men Singles\"},{\"competition_id\":\"28063\",\"competition_name\":\"ATP Hamburg, Germany Men Singles\"},{\"competition_id\":\"26639\",\"competition_name\":\"French Open Men Singles\"},{\"competition_id\":\"46210\",\"competition_name\":\"ATP Geneva, Switzerland Men Doubles\"},{\"competition_id\":\"34324\",\"competition_name\":\"ATP Hamburg, Germany Men Doubles\"}]},{\"category_id\":\"2157\",\"category_name\":\"Challenger\",\"competitions\":[{\"competition_id\":\"29234\",\"competition_name\":\"ATP Challenger Istanbul, Turkey Men Singles\"},{\"competition_id\":\"53776\",\"competition_name\":\"ATP Challenger Bengaluru 3, India Men Singles\"},{\"competition_id\":\"35857\",\"competition_name\":\"ATP Challenger Istanbul, Turkey Men Doubles\"},{\"competition_id\":\"53806\",\"competition_name\":\"ATP Challenger Bengaluru 3, India Men Doubles\"},{\"competition_id\":\"53771\",\"competition_name\":\"ATP Challenger Cervia, Italy Men Singles\"},{\"competition_id\":\"53774\",\"competition_name\":\"ATP Challenger Cervia, Italy Men Doubles\"}]},{\"category_id\":\"117670\",\"category_name\":\"UTR Men\",\"competitions\":[{\"competition_id\":\"50546\",\"competition_name\":\"UTR Ahaus M01\"},{\"competition_id\":\"50447\",\"competition_name\":\"UTR Tuscaloosa M01\"},{\"competition_id\":\"53795\",\"competition_name\":\"UTR PTT Madison Men 01\"},{\"competition_id\":\"51620\",\"competition_name\":\"UTR PTT Newport Beach Men 12\"}]},{\"category_id\":\"117673\",\"category_name\":\"UTR Women\",\"competitions\":[{\"competition_id\":\"50549\",\"competition_name\":\"UTR Ahaus W01\"},{\"competition_id\":\"53794\",\"competition_name\":\"UTR PTT Tuscaloosa Women 01\"},{\"competition_id\":\"53796\",\"competition_name\":\"UTR PTT Madison Women 01\"},{\"competition_id\":\"51140\",\"competition_name\":\"UTR PTT Newport Beach Women 12\"}]},{\"category_id\":\"2067\",\"category_name\":\"WTA\",\"competitions\":[{\"competition_id\":\"26621\",\"competition_name\":\"WTA Strasbourg, France Women Singles\"},{\"competition_id\":\"26233\",\"competition_name\":\"WTA Rabat, Morocco Women Singles\"},{\"competition_id\":\"26661\",\"competition_name\":\"French Open Women Singles\"},{\"competition_id\":\"34326\",\"competition_name\":\"WTA Strasbourg, France Women Doubles\"},{\"competition_id\":\"46216\",\"competition_name\":\"WTA Rabat, Morocco Women Doubles\"}]}],\"top_leagues\":{\"6\":{\"competition_id\":\"53806\",\"competition_name\":\"ATP Challenger Bengaluru 3, India Men Doubles\",\"sport_id\":\"28\",\"category_id\":\"2157\",\"category_name\":\"Challenger\",\"count\":\"4\"},\"8\":{\"competition_id\":\"53796\",\"competition_name\":\"UTR PTT Madison Women 01\",\"sport_id\":\"28\",\"category_id\":\"117673\",\"category_name\":\"UTR Women\",\"count\":\"4\"},\"9\":{\"competition_id\":\"53795\",\"competition_name\":\"UTR PTT Madison Men 01\",\"sport_id\":\"28\",\"category_id\":\"117670\",\"category_name\":\"UTR Men\",\"count\":\"4\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"tennis\"},\"query_params\":null,\"image\":null,\"label\":\"Tennis\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"132\",\"sport_name\":\"ESport Counter-Strike\",\"categories\":[{\"category_id\":\"117835\",\"category_name\":\"Dust2.br\",\"competitions\":[{\"competition_id\":\"53464\",\"competition_name\":\"BB Storm, Playoffs\"},{\"competition_id\":\"53833\",\"competition_name\":\"BetBoom Storm\"}]},{\"category_id\":\"117794\",\"category_name\":\"European Pro League\",\"competitions\":[{\"competition_id\":\"53575\",\"competition_name\":\"European Pro League Regular\"}]},{\"category_id\":\"117796\",\"category_name\":\"NODWIN Gaming\",\"competitions\":[{\"competition_id\":\"52753\",\"competition_name\":\"NODWIN Clutch Series\"}]},{\"category_id\":\"117853\",\"category_name\":\"Perfect World CS:GO\",\"competitions\":[{\"competition_id\":\"53802\",\"competition_name\":\"CS Asia Championships\"}]},{\"category_id\":\"117744\",\"category_name\":\"United21\",\"competitions\":[{\"competition_id\":\"51605\",\"competition_name\":\"United21\"}]},{\"category_id\":\"117822\",\"category_name\":\"Vanta\",\"competitions\":[{\"competition_id\":\"53246\",\"competition_name\":\"BC Game Masters\"}]}],\"top_leagues\":[],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"esport-counter-strike\"},\"query_params\":null,\"image\":null,\"label\":\"ESport Counter-Strike\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"33\",\"sport_name\":\"Handball\",\"categories\":[{\"category_id\":\"2245\",\"category_name\":\"Spain\",\"competitions\":[{\"competition_id\":\"20042\",\"competition_name\":\"Liga Asobal\"}]},{\"category_id\":\"2244\",\"category_name\":\"Germany\",\"competitions\":[{\"competition_id\":\"680\",\"competition_name\":\"Bundesliga\"},{\"competition_id\":\"43605\",\"competition_name\":\"2. HBL\"}]},{\"category_id\":\"2264\",\"category_name\":\"France\",\"competitions\":[{\"competition_id\":\"23265\",\"competition_name\":\"Coupe de France\"},{\"competition_id\":\"16588\",\"competition_name\":\"LNH Proligue\"},{\"competition_id\":\"20280\",\"competition_name\":\"LNH Division 1\"}]},{\"category_id\":\"2361\",\"category_name\":\"Austria\",\"competitions\":[{\"competition_id\":\"43607\",\"competition_name\":\"WHA Meisterliga, Women\"}]},{\"category_id\":\"2262\",\"category_name\":\"Denmark\",\"competitions\":[{\"competition_id\":\"41763\",\"competition_name\":\"Kvindeligaen, Women\"}]},{\"category_id\":\"2432\",\"category_name\":\"Israel\",\"competitions\":[{\"competition_id\":\"20193\",\"competition_name\":\"Division 1\"}]},{\"category_id\":\"2343\",\"category_name\":\"Norway\",\"competitions\":[{\"competition_id\":\"19719\",\"competition_name\":\"Eliteserien Women\"},{\"competition_id\":\"19677\",\"competition_name\":\"Eliteserien\"}]},{\"category_id\":\"2339\",\"category_name\":\"Romania\",\"competitions\":[{\"competition_id\":\"19663\",\"competition_name\":\"Liga Nationala\"}]},{\"category_id\":\"2354\",\"category_name\":\"Russia\",\"competitions\":[{\"competition_id\":\"19705\",\"competition_name\":\"Super League, Women\"}]},{\"category_id\":\"2256\",\"category_name\":\"Sweden\",\"competitions\":[{\"competition_id\":\"19706\",\"competition_name\":\"Elitserien Women\"},{\"competition_id\":\"28883\",\"competition_name\":\"Handbollsligan\"}]}],\"top_leagues\":{\"0\":{\"competition_id\":\"680\",\"competition_name\":\"Bundesliga\",\"sport_id\":\"33\",\"category_id\":\"2244\",\"category_name\":\"Germany\",\"count\":\"8\"},\"3\":{\"competition_id\":\"20042\",\"competition_name\":\"Liga Asobal\",\"sport_id\":\"33\",\"category_id\":\"2245\",\"category_name\":\"Spain\",\"count\":\"8\"},\"4\":{\"competition_id\":\"16588\",\"competition_name\":\"LNH Proligue\",\"sport_id\":\"33\",\"category_id\":\"2264\",\"category_name\":\"France\",\"count\":\"3\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"handball\"},\"query_params\":null,\"image\":null,\"label\":\"Handball\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"133\",\"sport_name\":\"ESport Dota\",\"categories\":[{\"category_id\":\"117751\",\"category_name\":\"Dreamhack Dota2\",\"competitions\":[{\"competition_id\":\"51748\",\"competition_name\":\"DreamLeague\"}]}],\"top_leagues\":[],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"esport-dota\"},\"query_params\":null,\"image\":null,\"label\":\"ESport Dota\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"44\",\"sport_name\":\"Darts\",\"categories\":[{\"category_id\":\"2068\",\"category_name\":\"International\",\"competitions\":[{\"competition_id\":\"24264\",\"competition_name\":\"Premier League\"},{\"competition_id\":\"42090\",\"competition_name\":\"Modus Super Series\"}]}],\"top_leagues\":[],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"darts\"},\"query_params\":null,\"image\":null,\"label\":\"Darts\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"40\",\"sport_name\":\"Futsal\",\"categories\":[{\"category_id\":\"2402\",\"category_name\":\"Portugal\",\"competitions\":[{\"competition_id\":\"19966\",\"competition_name\":\"1a Divisao\"}]},{\"category_id\":\"2442\",\"category_name\":\"Russia\",\"competitions\":[{\"competition_id\":\"20589\",\"competition_name\":\"Superliga\"}]}],\"top_leagues\":[],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"futsal\"},\"query_params\":null,\"image\":null,\"label\":\"Futsal\"},{\"timestamp\":1779350749399,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"105\",\"sport_name\":\"eSoccer\",\"categories\":[{\"category_id\":\"117312\",\"category_name\":\"eAdriatic League\",\"competitions\":[{\"competition_id\":\"43822\",\"competition_name\":\"eAdriatic League\"}]},{\"category_id\":\"3081\",\"category_name\":\"Gt Sports League\",\"competitions\":[{\"competition_id\":\"44877\",\"competition_name\":\"GT Leagues\"}]}],\"top_leagues\":[],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"esoccer\"},\"query_params\":null,\"image\":null,\"label\":\"eSoccer\"},{\"timestamp\":1779350749400,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"35\",\"sport_name\":\"Volleyball\",\"categories\":[{\"category_id\":\"2246\",\"category_name\":\"Russia\",\"competitions\":[{\"competition_id\":\"32693\",\"competition_name\":\"Pro League\"}]}],\"top_leagues\":[],\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"volleyball\"},\"query_params\":null,\"image\":null,\"label\":\"Volleyball\"},{\"timestamp\":1779350749400,\"hard_coded\":false,\"mobile_only\":false,\"sport_id\":\"36\",\"sport_name\":\"MMA\",\"categories\":[{\"category_id\":\"117516\",\"category_name\":\"PFL\",\"competitions\":[{\"competition_id\":\"53696\",\"competition_name\":\"PFL Brussels: Habirora vs Henderson\"}]},{\"category_id\":\"2488\",\"category_name\":\"UFC\",\"competitions\":[{\"competition_id\":\"53360\",\"competition_name\":\"UFC Fight Night: Song vs. Figueiredo\"}]}],\"top_leagues\":{\"7\":{\"competition_id\":\"53696\",\"competition_name\":\"PFL Brussels: Habirora vs Henderson\",\"sport_id\":\"36\",\"category_id\":\"117516\",\"category_name\":\"PFL\",\"count\":\"11\"}},\"new_badge\":false,\"expiry\":null,\"visible\":true,\"route\":\"sport\",\"params\":{\"sportName\":\"mma\"},\"query_params\":null,\"image\":null,\"label\":\"MMA\"}]"
+        },
+        {
+          "name": "nav-notification-dot-ke-v22",
+          "value": "{\"visited\":false,\"visible\":false}"
+        },
+        {
+          "name": "gbFeaturesCache",
+          "value": "[[\"https://ke-experiment-service.betika.com||?\",{\"data\":{\"status\":200,\"features\":{\"WP-9411-enable-cashia-integration\":{\"defaultValue\":false,\"rules\":[{\"id\":\"fr_19g61mmg0l114z\",\"condition\":{\"id\":{\"$in\":[\"27989277\",\"36817944\",\"21835938\",\"38078243\",\"8971764\",\"31892290\",\"21638430\",\"3388259\",\"24716670\",\"32835443\",\"2301826\",\"1247342\",\"2057485\",\"2330807\",\"1140421\",\"7451860\",\"24160\",\"33669049\",\"2301404\",\"7451875\",\"22240328\",\"2244996\",\"236886\",\"34102356\",\"13809568\",\"27557977\",\"4385654\",\"5259740\",\"16870611\",\"1603644\",\"27449717\",\"4462380\",\"37058354\",\"24\",\"30745481\",\"16239888\",\"16240173\",\"8123991\",\"2183891\",\"1782601\",\"8791010\",\"16522777\",\"30946125\",\"38123798\",\"37734102\",\"38053904\",\"36922616\",\"28453757\",\"35295858\",\"2961420\",\"29519809\",\"36922829\",\"37100475\",\"37105998\",\"38132672\",\"36867421\",\"38053120\",\"6766473\",\"36922639\",\"32358790\",\"6798425\",\"38123833\",\"36890633\",\"23023522\",\"37136641\",\"0724909367\",\"2042502\",\"4379574\",\"14655480\",\"79\",\"7451992\",\"36867778\",\"15\",\"38166438\",\"38280008\",\"38123905\",\"2302207\",\"38288204\",\"1110466\",\"10678409\",\"20872662\",\"4755880\",\"33669092\",\"38360613\",\"27021837\",\"38372231\",\"34002597\",\"6141706\",\"29999333\",\"38670460\",\"38889813\",\"39144318\",\"38174222\",\"3759448\",\"23862137\",\"32701714\",\"39480608\",\"39481506\",\"30872051\",\"28293657\",\"2201419\",\"1268\",\"39551304\"]}},\"force\":true},{\"id\":\"fr_19g61tmg0q3v11\",\"coverage\":1,\"hashAttribute\":\"id\",\"bucketVersion\":1,\"seed\":\"6cb89e48-ef69-4668-99f1-744a0051cd2f\",\"hashVersion\":2,\"force\":true}]},\"SB-3076-enable-MustBeWon-jackpot\":{\"defaultValue\":false,\"rules\":[{\"id\":\"fr_19g61mmicu5ve4\",\"force\":true}]},\"US-118-spin-to-win\":{\"defaultValue\":false}},\"experiments\":[],\"dateUpdated\":\"2026-05-21T06:44:51.272Z\"},\"version\":\"2026-05-21T06:44:51.272Z\",\"staleAt\":\"2026-05-21T08:06:50.205Z\",\"sse\":false}]]"
+        }
+      ]
+    },
+    {
+      "origin": "https://tr.snapchat.com",
+      "localStorage": [
+        {
+          "name": "u_sclid_r",
+          "value": "iQvPaxuaQYzo4o8-_3_HZF0fi-FhUwpD0xhgB3bTScg9NzT7DcQWrNItLI3MnAKP"
+        },
+        {
+          "name": "u_sclid",
+          "value": "iQvPaxuaQYzo4o8-_3_HZF0fi-FhUwpD0xhgB3bTScg9NzT7DcQWrNItLI3MnAKP"
+        }
+      ]
+    }
+  ]
+}
