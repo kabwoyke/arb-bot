@@ -1,20 +1,7 @@
-2026/05/29-13:28:19.834 2d5c Reusing MANIFEST /home/kabwoy/Desktop/baba-cale/bot/.betika-profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/05/29-13:28:19.842 2d5c Recovering log #15
-2026/05/29-13:28:19.843 2d5c Level-0 table #17: started
-2026/05/29-13:28:19.846 2d5c Level-0 table #17: 28523 bytes OK
-2026/05/29-13:28:19.847 2d5c Recovering log #16
-2026/05/29-13:28:19.847 2d5c Level-0 table #18: started
-2026/05/29-13:28:19.849 2d5c Level-0 table #18: 28344 bytes OK
-2026/05/29-13:28:19.852 2d5c Delete type=0 #15
-2026/05/29-13:28:19.852 2d5c Delete type=0 #16
-2026/05/29-13:28:19.853 2d5c Compacting 4@0 + 1@1 files
-2026/05/29-13:28:19.857 2d5c Generated table #20@0: 29 keys, 34382 bytes
-2026/05/29-13:28:19.857 2d5c Compacted 4@0 + 1@1 files => 34382 bytes
-2026/05/29-13:28:19.858 2d5c compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/05/29-13:28:19.859 2d5c Delete type=2 #14
-2026/05/29-13:28:19.860 2d5c Delete type=2 #17
-2026/05/29-13:28:19.860 2d5c Delete type=2 #11
-2026/05/29-13:28:19.860 2d5c Delete type=2 #13
-2026/05/29-13:28:19.860 2d5c Delete type=2 #18
-2026/05/29-13:29:14.004 2d5c Level-0 table #22: started
-2026/05/29-13:29:14.011 2d5c Level-0 table #22: 28424 bytes OK
+2026/06/07-09:27:14.455 3a7b Reusing MANIFEST /home/kabwoy/Desktop/baba-cale/bot/.betika-profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/07-09:27:14.465 3a7b Recovering log #59
+2026/06/07-09:27:14.466 3a7b Level-0 table #62: started
+2026/06/07-09:27:14.469 3a7b Level-0 table #62: 29570 bytes OK
+2026/06/07-09:27:14.470 3a7b Recovering log #61
+2026/06/07-09:27:14.470 3a7b Reusing old log /home/kabwoy/Desktop/baba-cale/bot/.betika-profile/Default/Local Storage/leveldb/000061.log 
+2026/06/07-09:27:14.472 3a7b Delete type=0 #59
